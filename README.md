@@ -1,4 +1,4 @@
-# votocerto-beta 
+# votocerto-beta
 > Uma forma lúdica de conhecer políticos de acordo com suas preferências.
 
 ## Pré-requisitos para usar
@@ -10,9 +10,13 @@ Android (>=4.1) (Jelly Bean)
 No Ubuntu 14.04 foi usado
 ```
 sudo apt install android-studio
-sudo apt install atom 
+sudo apt install atom
 sudo apt install apache2
-sudo apt-get curl
+sudo apt install curl
+sudo apt install git
+cd ~ && git init
+git clone https://github.com/fel1p/VotoCerto.git
+cd VotoCerto
 ```
 
 ## Cronograma
