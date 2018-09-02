@@ -1,5 +1,5 @@
 # votocerto-beta
-> Uma forma lúdica de conhecer políticos de acordo com suas preferências.
+> Uma forma lúdica de conhecer políticos quem pensam como você.
 
 ## Pré-requisitos para usar
 
