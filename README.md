@@ -42,6 +42,6 @@ git push origin master
 | <ul><li>[ ] 15/09</li></ul> | Ata 05 |
 | <ul><li>[ ] 22/09</li></ul> | Documentação Empreendedorismo |
 | <ul><li>[ ] 22/09</li></ul> | Documentação do Projeto |
-| <ul><li>[ ] 22/09</li></ul> | Link do Projeto Web <a href="../../web/">aqui</a> |
+| <ul><li>[ ] 22/09</li></ul> | Link do Projeto Web <a href="web">aqui</a> |
 | <ul><li>[ ] 26/09</li></ul> | Ata 06 |
-| <ul><li>[ ] 29/09</li></ul> | Link do Aplicativo <a href="../../apk/">aqui</a> |
+| <ul><li>[ ] 29/09</li></ul> | Link do Aplicativo <a href="apk">aqui</a> |
