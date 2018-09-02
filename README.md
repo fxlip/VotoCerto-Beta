@@ -14,9 +14,16 @@ sudo apt install atom
 sudo apt install apache2
 sudo apt install curl
 sudo apt install git
+```
+Para trabalhar no projeto
+```
 cd ~ && git init
 git clone https://github.com/fel1p/VotoCerto.git
 cd VotoCerto
+atom README.md
+git add .
+git commit -m "Mensagem" -S
+git push origin master
 ```
 
 ## Cronograma
