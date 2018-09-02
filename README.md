@@ -45,3 +45,9 @@ git push origin master
 | <ul><li>[ ] 22/09</li></ul> | <a href="web">Source do Projeto Web</a> |
 | <ul><li>[ ] 26/09</li></ul> | Ata 06 |
 | <ul><li>[ ] 29/09</li></ul> | <a href="apk">Source do Aplicativo</a> |
+
+## Licença
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+O código fonte do VotoCerto está disponível sob os termos da <a href="LICENSE">Licença Pública Geral GNU v3.0</a>
