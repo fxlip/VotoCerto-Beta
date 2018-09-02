@@ -1,0 +1,74 @@
+<resources>
+    <!-- Atividade Principal -->
+    <string name="app_name">VotoCerto</string>
+    <string name="hello_world">Bem-vindo ao VotoCerto</string>
+    <string name="descricao">Um quiz sobre a posição dos presidenciáveis que te ajudará a decidir em quem votar.</string>
+    <string name="help_vote_question">Precisa de ajuda para escolher um candidato?</string>
+    <string name="help_vote_answers">Me ajude a escolher</string>
+    <string name="check_vote_question">Ja sei em quem votar</string>
+    <string name="check_vote_answers">Conferir meu candidato</string>
+
+    <!-- Atividade helpVote -->
+    <string name="desc_helpvote">Responda algumas questões que foram a plenário e descubra o candidato que mais pensa como você.</string>
+    <string name="helpvote_buttom">Começar!</string>
+
+    <!-- Atividade checkVote -->
+    <string name="desc_checkvote">Será que seu candidato pensa como você? Selecione-o, responda algumas questões que foram a plenário e confira.</string>
+
+    <!-- Candidatos -->
+    <string name="cadidato1">Alvaro Dias</string>
+    <string name="vice1">Paulo Rabello</string>
+    <string name="partido1">Podemos (PODE) e Partido Social Cristão (PSC)</string>
+
+    <string name="cadidato2">Cabo Daciolo</string>
+    <string name="vice2">Professora Suelene Balduino</string>
+    <string name="partido2">Patriota (PATRI)</string>
+
+    <string name="cadidato3">Ciro Gomes</string>
+    <string name="vice3">Kátia Abreu</string>
+    <string name="partido3">Partido Democrático Trabalhista (PDT)</string>
+
+    <string name="cadidato4">Eymael</string>
+    <string name="vice4">Helvio Costa</string>
+    <string name="partido4">Democracia Cristã (DC)</string>
+
+    <string name="cadidato5">Geraldo Alckmin</string>
+    <string name="vice5">Ana Amélia</string>
+    <string name="partido5">Partido da Social Democracia Brasileira (PSDB)\n e Partido Progressista (PP)</string>
+
+    <string name="cadidato6">Guilherme Boulos</string>
+    <string name="vice6">Sonia Guajajara</string>
+    <string name="partido6">Partido Socialismo e Liberdade (PSOL)</string>
+
+    <string name="cadidato7">Henrique Meirelles</string>
+    <string name="vice7">Germano Rigotto</string>
+    <string name="partido7">Movimento Democrático Brasileiro (MDB)</string>
+
+    <string name="cadidato8">Jair Bolsonaro</string>
+    <string name="vice8">Gerenal Mourão</string>
+    <string name="partido8">Partido Social Liberal (PSL) e\nPartido Renovador Trabalhista Brasileiro (PRTB)</string>
+
+    <string name="cadidato9">João Amoêdo</string>
+    <string name="vice9">Professor Christian</string>
+    <string name="partido9">Partido Novo (NOVO)</string>
+
+    <string name="cadidato10">João Goulart Filho</string>
+    <string name="vice10">Léo da Silva Alves</string>
+    <string name="partido10">Partido Pátria Livre (PPL)</string>
+
+    <string name="cadidato11">Lula</string>
+    <string name="vice11">Fernando Haddad</string>
+    <string name="partido11">Partido dos Trabalhadores (PT)</string>
+
+    <string name="cadidato12">Marina Silva</string>
+    <string name="vice12">Eduardo Jorge</string>
+    <string name="partido12">Rede Sustentabilidade (REDE) e Partido Verde (PV)</string>
+
+    <string name="cadidato13">Vera</string>
+    <string name="vice13">Hertz</string>
+    <string name="partido13">Partido Socialista dos Trabalhadores Unificado (PSTU)</string>
+
+    <!-- Notificacoes -->
+    <string name="alert1">Vamos la!</string>
+
+</resources>

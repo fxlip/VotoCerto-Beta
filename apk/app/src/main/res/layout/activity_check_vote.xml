@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:hardwareAccelerated="false"
+    android:largeHeap="true"
+    tools:context=".CheckVote">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/desc_checkvote"
+                android:textSize="18sp"
+                android:layout_marginTop="40dp"/>
+
+            <!-- Inicio do Candidato 01 -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/partido1"
+                android:layout_marginTop="40dp"/>
+
+            <LinearLayout
+                android:id="@+id/partido19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:onClick="quiz"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/aalvarodias19"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/cadidato1"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/apaulorabello19"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/vice1"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- Fim do Candidato 01 -->
+
+            <!-- Inicio do Candidato 02 -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/partido2"
+                android:layout_marginTop="40dp"/>
+
+            <LinearLayout
+                android:id="@+id/partido51"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:onClick="quiz"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/bcabodaciolo51"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/cadidato2"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/bsuelenebalduino51"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/vice2"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- Fim do Candidato 02 -->
+
+            <!-- Inicio do Candidato 03 -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/partido3"
+                android:layout_marginTop="40dp"/>
+
+            <LinearLayout
+                android:id="@+id/partido12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:onClick="quiz"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/cadidato3"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/aalvarodias19"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/vice3"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+            </LinearLayout>
+            <!-- Fim do Candidato 03 -->
+
+            <!--Inicio do Candidato 04-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido4"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido27"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/deymael27"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato4"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/dhelviocosta27"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice4"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 04-->
+
+            <!--Inicio do Candidato 05-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido5"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido45"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/egeraldoalckimin45"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato5"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/eanaamelia45"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice5"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 05-->
+
+
+            <!--Inicio do Candidato 06-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido6"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido50"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/fguilhermeboulos50"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato6"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/fsoniaguajajara50"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice6"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 06-->
+
+            <!--Inicio do Candidato 07-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido7"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido15"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/ghenriquemeirelles15"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato7"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/ggermanorigotto15"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice7"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 07-->
+
+            <!--Inicio do Candidato 08-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido8"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido17"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/hjairbolsonaro17"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato8"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/hgeneralmourao17"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice8"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 08-->
+
+            <!--Inicio do Candidato 09-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido9"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido30"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/ijoaoamoedo30"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato9"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/iprofessorchristian30"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice9"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 09-->
+
+            <!--Inicio do Candidato 10-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido10"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido54"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/jjoaogoulartfilho54"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato10"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/jleodasilvaalves54"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice10"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 10-->
+
+            <!--Inicio do Candidato 11-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido11"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido13"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/klula13"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato11"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/kfernandohaddad13"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice11"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 11-->
+
+            <!--Inicio do Candidato 12-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido12"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido18"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/lmarinasilva18"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato12"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/leduardojorge18"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice12"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 12-->
+
+            <!--Inicio do Candidato 13-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/partido13"-->
+                <!--android:layout_marginTop="40dp"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/partido16"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:onClick="quiz"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/mvera16"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/cadidato13"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:ellipsize="end"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="161dp"-->
+                    <!--android:layout_height="225dp"-->
+                    <!--android:background="@drawable/mhertz16"-->
+                    <!--android:orientation="horizontal">-->
+                    <!--<TextView-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_gravity="bottom"-->
+                        <!--android:text="@string/vice13"-->
+                        <!--android:textColor="#FFF"-->
+                        <!--android:lines="2"-->
+                        <!--android:gravity="center"-->
+                        <!--android:fontFamily="sans-serif-light"-->
+                        <!--android:background="#99000000" />-->
+                <!--</LinearLayout>-->
+
+            <!--</LinearLayout>-->
+            <!--Fim do Candidato 13-->
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
