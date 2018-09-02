@@ -1,5 +1,5 @@
-# votocerto-beta
-> Uma forma lúdica de conhecer políticos quem pensam como você.
+# votocerto-beta [![GitLicense](https://gitlicense.com/badge/fel1p/VotoCerto)](https://gitlicense.com/license/fel1p/VotoCerto)
+> Uma forma lúdica de conhecer políticos que pensam como você.
 
 ## Pré-requisitos para usar
 
@@ -48,6 +48,4 @@ git push origin master
 
 ## Licença
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-O código fonte do VotoCerto está disponível sob os termos da <a href="LICENSE">Licença Pública Geral GNU v3.0</a>
+Todos os códigos do VotoCerto estão disponível sob os termos da <a href="LICENSE">Licença Pública Geral GNU v3.0</a>, a única forma de garantir imparcialidade no algoritmo.
