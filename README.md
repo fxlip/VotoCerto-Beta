@@ -1,4 +1,3 @@
-.
 # votocerto-beta 
 > Uma forma lúdica de conhecer políticos de acordo com suas preferências.
 
