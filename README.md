@@ -31,7 +31,7 @@ git push origin master
 | Data                        | Doc               |
 |-----------------------------|:-----------------:|
 | <ul><li>[x] 28/07</li></ul> | Controle de Grupo |
-| <ul><li>[x] 04/08</li></ul> | Ata 01 |
+| <ul><li>[x] 04/08</li></ul> | <a href="raw/master/docs/20180804-ata1.doc">Ata 01</a> |
 | <ul><li>[x] 07/08</li></ul> | Documentação Android |
 | <ul><li>[x] 11/08</li></ul> | Ata 02 |
 | <ul><li>[x] 18/08</li></ul> | Documentação PHP |
