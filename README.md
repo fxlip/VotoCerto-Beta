@@ -48,4 +48,5 @@ git push origin master
 
 ## Licença
 
-Todos os códigos do VotoCerto estão disponível sob os termos da <a href="LICENSE">Licença Pública Geral GNU v3.0</a>, a única forma de garantir imparcialidade no algoritmo.
+Todos os códigos do VotoCerto estão disponível sob os termos da <a href="LICENSE">Licença Pública Geral GNU v3.0</a>,
+a única forma de garantir um algoritmo imparcial.
