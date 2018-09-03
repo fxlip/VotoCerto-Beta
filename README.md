@@ -33,9 +33,9 @@ git push origin master
 | <ul><li>[x] 28/07</li></ul> | <a href="../../raw/master/docs/20180728-controle_de_grupo.doc">Controle de Grupo</a> |
 | <ul><li>[x] 04/08</li></ul> | <a href="/docs/20180804-ata1.pdf">Ata 01</a> |
 | <ul><li>[ ] 07/08</li></ul> | Documentação Android |
-| <ul><li>[x] 11/08</li></ul> | <a href="../../raw/master/docs/20180811-ata2.doc">Ata 02</a> |
+| <ul><li>[ ] 11/08</li></ul> | Ata 02 |
 | <ul><li>[ ] 18/08</li></ul> | Documentação PHP |
-| <ul><li>[x] 22/08</li></ul> | <a href="../../raw/master/docs/20180822-ata3.doc">Ata 03</a> |
+| <ul><li>[ ] 22/08</li></ul> | Ata 03 |
 | <ul><li>[ ] 25/08</li></ul> | Documentação Governança |
 | <ul><li>[ ] 01/09</li></ul> | Ata 04 |
 | <ul><li>[ ] 12/09</li></ul> | Documentação Testes e Métricas |
