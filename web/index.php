@@ -5,8 +5,11 @@
   $req = explode('/', trim($_SERVER['PATH_INFO'],'/'));
   $inp = json_decode(file_get_contents('php://input'),true);
 
+  print_r($req);
+
+/*
 # conexão com o banco
-  $lnk = mysqli_connect('localhost', 'user', 'pass', 'dbname');
+  $lnk = mysqli_connect('localhost', 'root', 'gnu$@LOL', 'votocerto');
   mysqli_set_charset($lnk,'utf8');
 
 # tabela & chave do req
@@ -48,6 +51,7 @@
     die(mysqli_error());
   }
 
+# http://127.0.0.1/web/{$table}/{$id}
 # retorno, inserir id ou a contagem de linhas é afetada.
   if ($opt == 'GET') {
     if (!$key) echo '[';
