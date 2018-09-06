@@ -34,8 +34,8 @@ git push origin master
 | <ul><li>[x] 04/08</li></ul> | <a href="/docs/20180804-ata1.pdf">Ata 01</a> |
 | <ul><li>[x] 07/08</li></ul> | <a href="/docs/20180807-documentacao_app.pdf">Documentação Android</a> |
 | <ul><li>[x] 11/08</li></ul> | <a href="/docs/20180811-ata2.pdf">Ata 02</a> |
-| <ul><li>[x] 18/08</li></ul> | <a href="/docs/20180818-documentacao_web.pdf">Documentação PHP</a> |
-| <ul><li>[x] 22/08</li></ul> | <a href="/docs/20180822-ata3.pdf">Ata 03</a> |
+| <ul><li>[ ] 18/08</li></ul> | Documentação PHP |
+| <ul><li>[ ] 22/08</li></ul> | Ata 03 |
 | <ul><li>[ ] 25/08</li></ul> | Documentação Governança |
 | <ul><li>[x] 01/09</li></ul> | <a href="/docs/20180901-ata4.docx">Ata 04</a> |
 | <ul><li>[ ] 12/09</li></ul> | Documentação Testes e Métricas |
