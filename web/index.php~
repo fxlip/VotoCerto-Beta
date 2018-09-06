@@ -63,5 +63,4 @@
   }
 
   mysqli_close($link);
-
 ?>
