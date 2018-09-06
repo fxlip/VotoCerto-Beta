@@ -37,7 +37,7 @@ git push origin master
 | <ul><li>[ ] 18/08</li></ul> | Documentação PHP |
 | <ul><li>[ ] 22/08</li></ul> | Ata 03 |
 | <ul><li>[ ] 25/08</li></ul> | Documentação Governança |
-| <ul><li>[ ] 01/09</li></ul> | Ata 04 |
+| <ul><li>[ ] 01/09</li></ul> | <a href="/docs/20180901-ata4.docx">Ata 04</a> |
 | <ul><li>[ ] 12/09</li></ul> | Documentação Testes e Métricas |
 | <ul><li>[ ] 15/09</li></ul> | Ata 05 |
 | <ul><li>[ ] 22/09</li></ul> | Documentação Empreendedorismo |
