@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Sep 11 15:18:12 BRT 2018
+0.baseType=DIRECTORY
+0.base=/home/felip/Nuvem/VotoCerto/apk/app/build/intermediates/transforms/dexMerger/debug/15
+0.path=classes.dex
+0.set=DEX
+count=1
