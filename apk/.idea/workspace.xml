@@ -10,8 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b405faa5-62ba-4b9b-ba23-226ec9fa8845" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/docs/20180728-controle_de_grupo.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180804-ata1.odt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180804-ata1.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180807-documentacao_app.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180811-ata2.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180818-documentacao_web.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180822-ata3.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/20180901-ata4.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/v1/index.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2136,7 +2143,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2150,7 +2157,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="apk" type="cbb8eebc:String" user="apk" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="apk" type="cbb8eebc:String" user="apk" />
+              <item name="apk" type="cbb8eebc:String" user="apk" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="apk" type="cbb8eebc:String" user="apk" />
+              <item name="apk" type="cbb8eebc:String" user="apk" />
+              <item name="apk" type="cbb8eebc:String" user="apk" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView">
