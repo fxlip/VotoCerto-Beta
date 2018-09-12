@@ -18,12 +18,12 @@
             android:orientation="vertical">
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="@string/desc_checkvote"
-                android:textSize="18sp"
-                android:layout_marginTop="40dp"/>
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:text="@string/desc_checkvote"-->
+                <!--android:textSize="18sp"-->
+                <!--android:layout_marginTop="40dp"/>-->
 
             <!-- Inicio do Candidato 01 -->
             <!--<TextView-->
