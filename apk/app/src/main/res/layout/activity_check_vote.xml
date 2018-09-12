@@ -18,69 +18,69 @@
             android:orientation="vertical">
 
             <TextView
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:gravity="center"-->
-                <!--android:text="@string/desc_checkvote"-->
-                <!--android:textSize="18sp"-->
-                <!--android:layout_marginTop="40dp"/>-->
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/desc_checkvote"
+                android:textSize="18sp"
+                android:layout_marginTop="40dp"/>
 
             <!-- Inicio do Candidato 01 -->
-            <!--<TextView-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:gravity="center"-->
-                <!--android:text="@string/partido1"-->
-                <!--android:layout_marginTop="40dp"/>-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/partido1"
+                android:layout_marginTop="40dp"/>
 
-            <!--<LinearLayout-->
-                <!--android:id="@+id/partido19"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:gravity="center"-->
-                <!--android:onClick="quiz"-->
-                <!--android:orientation="horizontal">-->
+            <LinearLayout
+                android:id="@+id/partido19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:onClick="quiz"
+                android:orientation="horizontal">
 
-                <!--<LinearLayout-->
-                    <!--android:id="@id/partido19"-->
-                    <!--android:layout_width="161dp"-->
-                    <!--android:layout_height="225dp"-->
-                    <!--android:background="@drawable/aalvarodias19"-->
-                    <!--android:orientation="horizontal">-->
-                    <!--<TextView-->
-                        <!--android:id="@id/partido19"-->
-                        <!--android:layout_width="match_parent"-->
-                        <!--android:layout_height="wrap_content"-->
-                        <!--android:layout_gravity="bottom"-->
-                        <!--android:text="@string/cadidato1"-->
-                        <!--android:textColor="#FFF"-->
-                        <!--android:ellipsize="end"-->
-                        <!--android:lines="2"-->
-                        <!--android:gravity="center"-->
-                        <!--android:fontFamily="sans-serif-light"-->
-                        <!--android:background="#99000000" />-->
-                <!--</LinearLayout>-->
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/aalvarodias19"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/cadidato1"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
 
-                <!--<LinearLayout-->
-                    <!--android:id="@id/partido19"-->
-                    <!--android:layout_width="161dp"-->
-                    <!--android:layout_height="225dp"-->
-                    <!--android:background="@drawable/apaulorabello19"-->
-                    <!--android:orientation="horizontal">-->
-                    <!--<TextView-->
-                        <!--android:id="@id/partido19"-->
-                        <!--android:layout_width="match_parent"-->
-                        <!--android:layout_height="wrap_content"-->
-                        <!--android:layout_gravity="bottom"-->
-                        <!--android:text="@string/vice1"-->
-                        <!--android:textColor="#FFF"-->
-                        <!--android:lines="2"-->
-                        <!--android:gravity="center"-->
-                        <!--android:fontFamily="sans-serif-light"-->
-                        <!--android:background="#99000000" />-->
-                <!--</LinearLayout>-->
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="161dp"
+                    android:layout_height="225dp"
+                    android:background="@drawable/apaulorabello19"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/vice1"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
 
-            <!--</LinearLayout>-->
+            </LinearLayout>
             <!--&lt;!&ndash; Fim do Candidato 01 &ndash;&gt;-->
 
             <!--&lt;!&ndash; Inicio do Candidato 02 &ndash;&gt;-->
