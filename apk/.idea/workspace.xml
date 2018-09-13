@@ -7,7 +7,144 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b789bc5-1491-40c8-8e4b-5eef70b5f543" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/a_alvarodias-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/a_alvarodias.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/a_paulorabello.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/b_cabodaciolo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/b_suelenebalduino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/c_cirogomes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/c_katiaabreu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/d_eymael.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/d_helviocosta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/e_anaamelia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/e_geraldoalckimin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/f_guilermeboulos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/f_soniaguajajara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/g_generalmourao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/g_germanorigotto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/g_henriquemeirelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/g_jairbolsonaro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/i_joaoamoedo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/i_professorchristian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/j_joaogoularfilho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/j_leodasilvaalves.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/k_fernandohaddad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/k_manuella.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/l_eduardojorge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/l_marinasilva.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/m_hertz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/m_vera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/a_alvarodias.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/a_paulorabello.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/b_cabodaciolo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/b_suelenebalduino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/c_cirogomes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/c_katiaabreu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/d_eymael.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/d_helviocosta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/e_anaamelia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/e_geraldoalckimin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/f_guilermeboulos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/f_soniaguajajara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/g_generalmourao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/g_germanorigotto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/g_henriquemeirelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/g_jairbolsonaro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/i_joaoamoedo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/i_professorchristian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/j_joaogoularfilho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/j_leodasilvaalves.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/k_fernandohaddad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/k_manuella.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/l_eduardojorge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/l_marinasilva.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/m_hertz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/m_vera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/a_alvarodias.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/a_paulorabello.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/b_cabodaciolo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/b_suelenebalduino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/c_cirogomes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/c_katiaabreu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/d_eymael.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/d_helviocosta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/e_anaamelia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/e_geraldoalckimin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/f_guilermeboulos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/f_soniaguajajara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/g_generalmourao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/g_germanorigotto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/g_henriquemeirelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/g_jairbolsonaro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/i_joaoamoedo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/i_professorchristian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/j_joaogoularfilho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/j_leodasilvaalves.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/k_fernandohaddad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/k_manuella.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/l_eduardojorge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/l_marinasilva.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/m_hertz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/m_vera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/a_alvarodias.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/a_paulorabello.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/b_cabodaciolo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/b_suelenebalduino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/c_cirogomes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/c_katiaabreu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/d_eymael.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/d_helviocosta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/e_anaamelia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/e_geraldoalckimin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/f_guilermeboulos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/f_soniaguajajara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/g_generalmourao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/g_germanorigotto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/g_henriquemeirelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/g_jairbolsonaro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/i_joaoamoedo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/i_professorchristian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/j_joaogoularfilho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/j_leodasilvaalves.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/k_fernandohaddad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/k_manuella.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/l_eduardojorge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/l_marinasilva.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/m_hertz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/m_vera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/a_alvarodias.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/a_paulorabello.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/b_cabodaciolo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/b_suelenebalduino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/c_cirogomes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/c_katiaabreu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/d_eymael.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/d_helviocosta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/e_anaamelia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/e_geraldoalckimin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/f_guilermeboulos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/f_soniaguajajara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/g_generalmourao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/g_germanorigotto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/g_henriquemeirelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/g_jairbolsonaro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/i_joaoamoedo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/i_professorchristian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/j_joaogoularfilho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/j_leodasilvaalves.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/k_fernandohaddad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/k_manuella.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/l_eduardojorge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/l_marinasilva.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/m_hertz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/m_vera.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aalvarodias19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aalvarodias19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/aalvarodias19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/aalvarodias19.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,21 +167,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="activity_check_vote.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_check_vote.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="70" column="50" lean-forward="true" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="284" column="60" lean-forward="false" selection-start-line="284" selection-start-column="60" selection-end-line="284" selection-end-column="60" />
               <folding>
                 <element signature="e#1258#1276#0" expanded="true" />
-                <element signature="e#2224#2243#0" expanded="true" />
-                <element signature="e#3177#3192#0" expanded="true" />
-                <marker date="1536792944009" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
+                <element signature="e#2221#2240#0" expanded="true" />
+                <element signature="e#3171#3186#0" expanded="true" />
+                <element signature="e#3791#3809#0" expanded="true" />
+                <element signature="e#4657#4676#0" expanded="true" />
+                <element signature="e#5512#5527#0" expanded="true" />
+                <element signature="e#6132#6150#0" expanded="true" />
+                <element signature="e#6996#7015#0" expanded="true" />
+                <element signature="e#7846#7861#0" expanded="true" />
+                <element signature="e#8464#8482#0" expanded="true" />
+                <element signature="e#9325#9344#0" expanded="true" />
+                <element signature="e#10176#10191#0" expanded="true" />
+                <element signature="e#10792#10810#0" expanded="true" />
+                <element signature="e#11662#11681#0" expanded="true" />
+                <element signature="e#12511#12526#0" expanded="true" />
+                <element signature="e#13127#13145#0" expanded="true" />
+                <element signature="e#13996#14015#0" expanded="true" />
+                <element signature="e#14850#14865#0" expanded="true" />
+                <element signature="e#15466#15484#0" expanded="true" />
+                <element signature="e#16338#16357#0" expanded="true" />
+                <element signature="e#17192#17207#0" expanded="true" />
+                <element signature="e#17801#17819#0" expanded="true" />
+                <element signature="e#18669#18688#0" expanded="true" />
+                <element signature="e#19522#19537#0" expanded="true" />
+                <element signature="e#20138#20156#0" expanded="true" />
+                <element signature="e#21003#21022#0" expanded="true" />
+                <element signature="e#21861#21876#0" expanded="true" />
+                <element signature="e#22477#22496#0" expanded="true" />
+                <element signature="e#23348#23368#0" expanded="true" />
+                <element signature="e#24204#24220#0" expanded="true" />
+                <element signature="e#24814#24833#0" expanded="true" />
+                <element signature="e#25684#25704#0" expanded="true" />
+                <element signature="e#26533#26549#0" expanded="true" />
+                <element signature="e#27143#27162#0" expanded="true" />
+                <element signature="e#28010#28030#0" expanded="true" />
+                <element signature="e#28863#28879#0" expanded="true" />
+                <element signature="e#29480#29499#0" expanded="true" />
+                <element signature="e#30340#30360#0" expanded="true" />
+                <element signature="e#31186#31202#0" expanded="true" />
+                <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
               </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="60" column="89" lean-forward="true" selection-start-line="60" selection-start-column="89" selection-end-line="60" selection-end-column="89" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -2070,6 +2253,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -2177,7 +2361,7 @@
             <path>
               <item name="apk" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="apk" type="1abcf292:AndroidViewProjectNode" />
@@ -2188,7 +2372,13 @@
               <item name="apk" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="apk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
@@ -2422,9 +2612,45 @@
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="25" selection-end-column="53" />
           <folding>
             <element signature="e#1258#1276#0" expanded="true" />
-            <element signature="e#2224#2243#0" expanded="true" />
-            <element signature="e#3177#3192#0" expanded="true" />
-            <marker date="1536792944009" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
+            <element signature="e#2221#2240#0" expanded="true" />
+            <element signature="e#3171#3186#0" expanded="true" />
+            <element signature="e#3791#3809#0" expanded="true" />
+            <element signature="e#4657#4676#0" expanded="true" />
+            <element signature="e#5512#5527#0" expanded="true" />
+            <element signature="e#6132#6150#0" expanded="true" />
+            <element signature="e#6996#7015#0" expanded="true" />
+            <element signature="e#7846#7861#0" expanded="true" />
+            <element signature="e#8464#8482#0" expanded="true" />
+            <element signature="e#9325#9344#0" expanded="true" />
+            <element signature="e#10176#10191#0" expanded="true" />
+            <element signature="e#10792#10810#0" expanded="true" />
+            <element signature="e#11662#11681#0" expanded="true" />
+            <element signature="e#12511#12526#0" expanded="true" />
+            <element signature="e#13127#13145#0" expanded="true" />
+            <element signature="e#13996#14015#0" expanded="true" />
+            <element signature="e#14850#14865#0" expanded="true" />
+            <element signature="e#15466#15484#0" expanded="true" />
+            <element signature="e#16338#16357#0" expanded="true" />
+            <element signature="e#17192#17207#0" expanded="true" />
+            <element signature="e#17801#17819#0" expanded="true" />
+            <element signature="e#18669#18688#0" expanded="true" />
+            <element signature="e#19522#19537#0" expanded="true" />
+            <element signature="e#20138#20156#0" expanded="true" />
+            <element signature="e#21003#21022#0" expanded="true" />
+            <element signature="e#21861#21876#0" expanded="true" />
+            <element signature="e#22477#22496#0" expanded="true" />
+            <element signature="e#23348#23368#0" expanded="true" />
+            <element signature="e#24204#24220#0" expanded="true" />
+            <element signature="e#24814#24833#0" expanded="true" />
+            <element signature="e#25684#25704#0" expanded="true" />
+            <element signature="e#26533#26549#0" expanded="true" />
+            <element signature="e#27143#27162#0" expanded="true" />
+            <element signature="e#28010#28030#0" expanded="true" />
+            <element signature="e#28863#28879#0" expanded="true" />
+            <element signature="e#29480#29499#0" expanded="true" />
+            <element signature="e#30340#30360#0" expanded="true" />
+            <element signature="e#31186#31202#0" expanded="true" />
+            <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
           </folding>
         </state>
       </provider>
@@ -2432,20 +2658,94 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aalvarodias19.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aalvarodias19.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/a_paulorabello.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/a_paulorabello.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/a_alvarodias.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/a_alvarodias.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="70" column="50" lean-forward="true" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="284" column="60" lean-forward="false" selection-start-line="284" selection-start-column="60" selection-end-line="284" selection-end-column="60" />
           <folding>
             <element signature="e#1258#1276#0" expanded="true" />
-            <element signature="e#2224#2243#0" expanded="true" />
-            <element signature="e#3177#3192#0" expanded="true" />
-            <marker date="1536792944009" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
+            <element signature="e#2221#2240#0" expanded="true" />
+            <element signature="e#3171#3186#0" expanded="true" />
+            <element signature="e#3791#3809#0" expanded="true" />
+            <element signature="e#4657#4676#0" expanded="true" />
+            <element signature="e#5512#5527#0" expanded="true" />
+            <element signature="e#6132#6150#0" expanded="true" />
+            <element signature="e#6996#7015#0" expanded="true" />
+            <element signature="e#7846#7861#0" expanded="true" />
+            <element signature="e#8464#8482#0" expanded="true" />
+            <element signature="e#9325#9344#0" expanded="true" />
+            <element signature="e#10176#10191#0" expanded="true" />
+            <element signature="e#10792#10810#0" expanded="true" />
+            <element signature="e#11662#11681#0" expanded="true" />
+            <element signature="e#12511#12526#0" expanded="true" />
+            <element signature="e#13127#13145#0" expanded="true" />
+            <element signature="e#13996#14015#0" expanded="true" />
+            <element signature="e#14850#14865#0" expanded="true" />
+            <element signature="e#15466#15484#0" expanded="true" />
+            <element signature="e#16338#16357#0" expanded="true" />
+            <element signature="e#17192#17207#0" expanded="true" />
+            <element signature="e#17801#17819#0" expanded="true" />
+            <element signature="e#18669#18688#0" expanded="true" />
+            <element signature="e#19522#19537#0" expanded="true" />
+            <element signature="e#20138#20156#0" expanded="true" />
+            <element signature="e#21003#21022#0" expanded="true" />
+            <element signature="e#21861#21876#0" expanded="true" />
+            <element signature="e#22477#22496#0" expanded="true" />
+            <element signature="e#23348#23368#0" expanded="true" />
+            <element signature="e#24204#24220#0" expanded="true" />
+            <element signature="e#24814#24833#0" expanded="true" />
+            <element signature="e#25684#25704#0" expanded="true" />
+            <element signature="e#26533#26549#0" expanded="true" />
+            <element signature="e#27143#27162#0" expanded="true" />
+            <element signature="e#28010#28030#0" expanded="true" />
+            <element signature="e#28863#28879#0" expanded="true" />
+            <element signature="e#29480#29499#0" expanded="true" />
+            <element signature="e#30340#30360#0" expanded="true" />
+            <element signature="e#31186#31202#0" expanded="true" />
+            <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="60" column="89" lean-forward="true" selection-start-line="60" selection-start-column="89" selection-end-line="60" selection-end-column="89" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
