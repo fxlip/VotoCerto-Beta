@@ -139,11 +139,266 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/l_marinasilva.png" />
       <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/m_hertz.png" />
       <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/m_vera.png" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/asynclayoutinflater/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/asynclayoutinflater/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coordinatorlayout/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coordinatorlayout/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/customview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/customview/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/drawerlayout/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/drawerlayout/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/loader/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/loader/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/slidingpanelayout/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/slidingpanelayout/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/swiperefreshlayout/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/swiperefreshlayout/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/viewpager/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/viewpager/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/br/com/felip/votocerto/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/br/com/felip/votocerto/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/asynclayoutinflater/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coordinatorlayout/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/customview/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/drawerlayout/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/loader/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/slidingpanelayout/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/swiperefreshlayout/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/viewpager/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/CheckVote.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/CheckVote.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/Quiz.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/Quiz.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$color.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$interpolator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$interpolator.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/br/com/felip/votocerto/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/m8GGcPmfSBbLlC6QWk_Mdg1B7rI=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/m8GGcPmfSBbLlC6QWk_Mdg1B7rI=" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_aalvarodias19.png.flat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_aalvarodias19.png.flat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_aalvarodias19.png.flat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_aalvarodias19.png.flat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_check_vote.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_check_vote.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_quiz.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_quiz.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/asynclayoutinflater/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/compat/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/constraint/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/constraint/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coordinatorlayout/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreui/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/coreutils/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/customview/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/design/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/drawerlayout/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/fragment/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/graphics/drawable/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/loader/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/slidingpanelayout/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/swiperefreshlayout/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/transition/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/appcompat/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/recyclerview/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/android/support/v7/viewpager/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/CheckVote.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/CheckVote.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/Quiz.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/Quiz.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$color.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$color.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$dimen.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$dimen.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$integer.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$integer.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$interpolator.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$interpolator.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$mipmap.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$mipmap.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$style.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$style.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$styleable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49/br/com/felip/votocerto/R$styleable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/CheckVote.java" afterPath="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/CheckVote.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/Quiz.java" afterPath="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/Quiz.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aalvarodias19.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aalvarodias19.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/aalvarodias19.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/aalvarodias19.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_quiz.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_quiz.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,63 +424,90 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="activity_check_vote.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="284" column="60" lean-forward="false" selection-start-line="284" selection-start-column="60" selection-end-line="284" selection-end-column="60" />
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="33" selection-end-column="49" />
               <folding>
-                <element signature="e#1258#1276#0" expanded="true" />
-                <element signature="e#2221#2240#0" expanded="true" />
-                <element signature="e#3171#3186#0" expanded="true" />
-                <element signature="e#3791#3809#0" expanded="true" />
-                <element signature="e#4657#4676#0" expanded="true" />
-                <element signature="e#5512#5527#0" expanded="true" />
-                <element signature="e#6132#6150#0" expanded="true" />
-                <element signature="e#6996#7015#0" expanded="true" />
-                <element signature="e#7846#7861#0" expanded="true" />
-                <element signature="e#8464#8482#0" expanded="true" />
-                <element signature="e#9325#9344#0" expanded="true" />
-                <element signature="e#10176#10191#0" expanded="true" />
-                <element signature="e#10792#10810#0" expanded="true" />
-                <element signature="e#11662#11681#0" expanded="true" />
-                <element signature="e#12511#12526#0" expanded="true" />
-                <element signature="e#13127#13145#0" expanded="true" />
-                <element signature="e#13996#14015#0" expanded="true" />
-                <element signature="e#14850#14865#0" expanded="true" />
-                <element signature="e#15466#15484#0" expanded="true" />
-                <element signature="e#16338#16357#0" expanded="true" />
-                <element signature="e#17192#17207#0" expanded="true" />
-                <element signature="e#17801#17819#0" expanded="true" />
-                <element signature="e#18669#18688#0" expanded="true" />
-                <element signature="e#19522#19537#0" expanded="true" />
-                <element signature="e#20138#20156#0" expanded="true" />
-                <element signature="e#21003#21022#0" expanded="true" />
-                <element signature="e#21861#21876#0" expanded="true" />
-                <element signature="e#22477#22496#0" expanded="true" />
-                <element signature="e#23348#23368#0" expanded="true" />
-                <element signature="e#24204#24220#0" expanded="true" />
-                <element signature="e#24814#24833#0" expanded="true" />
-                <element signature="e#25684#25704#0" expanded="true" />
-                <element signature="e#26533#26549#0" expanded="true" />
-                <element signature="e#27143#27162#0" expanded="true" />
-                <element signature="e#28010#28030#0" expanded="true" />
-                <element signature="e#28863#28879#0" expanded="true" />
-                <element signature="e#29480#29499#0" expanded="true" />
-                <element signature="e#30340#30360#0" expanded="true" />
-                <element signature="e#31186#31202#0" expanded="true" />
                 <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
               </folding>
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="CheckVote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/CheckVote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_quiz.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_quiz.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quiz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/Quiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="39" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="60" column="89" lean-forward="true" selection-start-line="60" selection-start-column="89" selection-end-line="60" selection-end-column="89" />
+            <state relative-caret-position="2782">
+              <caret line="211" column="49" lean-forward="false" selection-start-line="211" selection-start-column="49" selection-end-line="211" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_quiz_edusaude.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_quiz_edusaude.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quiz_edusaude.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/quiz_edusaude.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -2253,13 +2535,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/CheckVote.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/quiz_edusaude.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/Quiz.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_quiz.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="863" />
+    <option name="x" value="1172" />
+    <option name="y" value="48" />
+    <option name="width" value="2086" />
+    <option name="height" value="1348" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -2332,7 +2620,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -2349,6 +2639,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
@@ -2366,32 +2657,25 @@
             <path>
               <item name="apk" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="apk" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="apk" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="votocerto" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="03157df372345126" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="br.com.felip.votocerto" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2441,7 +2725,7 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -2558,12 +2842,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="863" extended-state="0" />
+    <frame x="1172" y="48" width="2086" height="1348" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2572,13 +2855,13 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26902175" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16216215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18893678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299373" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12904808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2590,6 +2873,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2607,67 +2891,41 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="25" selection-end-column="53" />
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="4260">
+          <caret line="284" column="60" lean-forward="false" selection-start-line="284" selection-start-column="60" selection-end-line="284" selection-end-column="60" />
           <folding>
-            <element signature="e#1258#1276#0" expanded="true" />
-            <element signature="e#2221#2240#0" expanded="true" />
-            <element signature="e#3171#3186#0" expanded="true" />
-            <element signature="e#3791#3809#0" expanded="true" />
-            <element signature="e#4657#4676#0" expanded="true" />
-            <element signature="e#5512#5527#0" expanded="true" />
-            <element signature="e#6132#6150#0" expanded="true" />
-            <element signature="e#6996#7015#0" expanded="true" />
-            <element signature="e#7846#7861#0" expanded="true" />
-            <element signature="e#8464#8482#0" expanded="true" />
-            <element signature="e#9325#9344#0" expanded="true" />
-            <element signature="e#10176#10191#0" expanded="true" />
-            <element signature="e#10792#10810#0" expanded="true" />
-            <element signature="e#11662#11681#0" expanded="true" />
-            <element signature="e#12511#12526#0" expanded="true" />
-            <element signature="e#13127#13145#0" expanded="true" />
-            <element signature="e#13996#14015#0" expanded="true" />
-            <element signature="e#14850#14865#0" expanded="true" />
-            <element signature="e#15466#15484#0" expanded="true" />
-            <element signature="e#16338#16357#0" expanded="true" />
-            <element signature="e#17192#17207#0" expanded="true" />
-            <element signature="e#17801#17819#0" expanded="true" />
-            <element signature="e#18669#18688#0" expanded="true" />
-            <element signature="e#19522#19537#0" expanded="true" />
-            <element signature="e#20138#20156#0" expanded="true" />
-            <element signature="e#21003#21022#0" expanded="true" />
-            <element signature="e#21861#21876#0" expanded="true" />
-            <element signature="e#22477#22496#0" expanded="true" />
-            <element signature="e#23348#23368#0" expanded="true" />
-            <element signature="e#24204#24220#0" expanded="true" />
-            <element signature="e#24814#24833#0" expanded="true" />
-            <element signature="e#25684#25704#0" expanded="true" />
-            <element signature="e#26533#26549#0" expanded="true" />
-            <element signature="e#27143#27162#0" expanded="true" />
-            <element signature="e#28010#28030#0" expanded="true" />
-            <element signature="e#28863#28879#0" expanded="true" />
-            <element signature="e#29480#29499#0" expanded="true" />
-            <element signature="e#30340#30360#0" expanded="true" />
-            <element signature="e#31186#31202#0" expanded="true" />
             <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="60" lean-forward="false" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aalvarodias19.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aalvarodias19.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aalvarodias19.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aalvarodias19.png" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/a_paulorabello.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2688,62 +2946,106 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/educacao_saude_round.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/educacao_saude_round.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_check_vote.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="284" column="60" lean-forward="false" selection-start-line="284" selection-start-column="60" selection-end-line="284" selection-end-column="60" />
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="33" selection-end-column="49" />
           <folding>
-            <element signature="e#1258#1276#0" expanded="true" />
-            <element signature="e#2221#2240#0" expanded="true" />
-            <element signature="e#3171#3186#0" expanded="true" />
-            <element signature="e#3791#3809#0" expanded="true" />
-            <element signature="e#4657#4676#0" expanded="true" />
-            <element signature="e#5512#5527#0" expanded="true" />
-            <element signature="e#6132#6150#0" expanded="true" />
-            <element signature="e#6996#7015#0" expanded="true" />
-            <element signature="e#7846#7861#0" expanded="true" />
-            <element signature="e#8464#8482#0" expanded="true" />
-            <element signature="e#9325#9344#0" expanded="true" />
-            <element signature="e#10176#10191#0" expanded="true" />
-            <element signature="e#10792#10810#0" expanded="true" />
-            <element signature="e#11662#11681#0" expanded="true" />
-            <element signature="e#12511#12526#0" expanded="true" />
-            <element signature="e#13127#13145#0" expanded="true" />
-            <element signature="e#13996#14015#0" expanded="true" />
-            <element signature="e#14850#14865#0" expanded="true" />
-            <element signature="e#15466#15484#0" expanded="true" />
-            <element signature="e#16338#16357#0" expanded="true" />
-            <element signature="e#17192#17207#0" expanded="true" />
-            <element signature="e#17801#17819#0" expanded="true" />
-            <element signature="e#18669#18688#0" expanded="true" />
-            <element signature="e#19522#19537#0" expanded="true" />
-            <element signature="e#20138#20156#0" expanded="true" />
-            <element signature="e#21003#21022#0" expanded="true" />
-            <element signature="e#21861#21876#0" expanded="true" />
-            <element signature="e#22477#22496#0" expanded="true" />
-            <element signature="e#23348#23368#0" expanded="true" />
-            <element signature="e#24204#24220#0" expanded="true" />
-            <element signature="e#24814#24833#0" expanded="true" />
-            <element signature="e#25684#25704#0" expanded="true" />
-            <element signature="e#26533#26549#0" expanded="true" />
-            <element signature="e#27143#27162#0" expanded="true" />
-            <element signature="e#28010#28030#0" expanded="true" />
-            <element signature="e#28863#28879#0" expanded="true" />
-            <element signature="e#29480#29499#0" expanded="true" />
-            <element signature="e#30340#30360#0" expanded="true" />
-            <element signature="e#31186#31202#0" expanded="true" />
             <marker date="1536796762724" expanded="false" signature="901:925" ph="&quot;Será que seu candidato pensa como você? Selecione-o, re...&quot;" />
           </folding>
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/quiz_edusaude.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/CheckVote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="60" column="89" lean-forward="true" selection-start-line="60" selection-start-column="89" selection-end-line="60" selection-end-column="89" />
+        <state relative-caret-position="2782">
+          <caret line="211" column="49" lean-forward="false" selection-start-line="211" selection-start-column="49" selection-end-line="211" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_quiz.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/felip/votocerto/Quiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_quiz_edusaude.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding />
         </state>
       </provider>

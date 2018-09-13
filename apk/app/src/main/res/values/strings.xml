@@ -9,11 +9,11 @@
     <string name="check_vote_answers">Conferir meu candidato</string>
 
     <!-- Atividade helpVote -->
-    <string name="desc_helpvote">Responda algumas questões que foram a plenário e descubra o candidato que mais pensa como você.</string>
+    <string name="desc_helpvote">Veja algumas propostas e descubra o candidato que mais pensa como você.</string>
     <string name="helpvote_buttom">Começar!</string>
 
     <!-- Atividade checkVote -->
-    <string name="desc_checkvote">Será que seu candidato pensa como você? Selecione-o, responda algumas questões que foram a plenário e confira.</string>
+    <string name="desc_checkvote">Será que seu candidato pensa como você? Selecione-o e conheça algumas propostas para conferir.</string>
 
     <!-- Candidatos -->
     <string name="cadidato1">Alvaro Dias</string>
@@ -21,14 +21,14 @@
     <string name="partido1">Podemos (PODE) e Partido Social Cristão (PSC)</string>
 
     <string name="cadidato2">Cabo Daciolo</string>
-    <string name="vice2">Professora Suelene Balduino</string>
+    <string name="vice2">Professora Suelene</string>
     <string name="partido2">Patriota (PATRI)</string>
 
     <string name="cadidato3">Ciro Gomes</string>
     <string name="vice3">Kátia Abreu</string>
     <string name="partido3">Partido Democrático Trabalhista (PDT)</string>
 
-    <string name="cadidato4">Eymael</string>
+    <string name="cadidato4">José Maria Eymael</string>
     <string name="vice4">Helvio Costa</string>
     <string name="partido4">Democracia Cristã (DC)</string>
 
@@ -64,11 +64,151 @@
     <string name="vice12">Eduardo Jorge</string>
     <string name="partido12">Rede Sustentabilidade (REDE) e Partido Verde (PV)</string>
 
-    <string name="cadidato13">Vera</string>
+    <string name="cadidato13">Vera Lúcia</string>
     <string name="vice13">Hertz</string>
     <string name="partido13">Partido Socialista dos Trabalhadores Unificado (PSTU)</string>
 
     <!-- Notificacoes -->
     <string name="alert1">Vamos la!</string>
+
+    <!-- Atividade Quiz -->
+    <string name="desc_quiz">Escolha um tema e conheça algumas propostas.</string>
+
+    <string name="proposta1">Educação e Saúde</string>
+    <string name="proposta1.1.1">Solucionar a carência de creches e unidades de educação infantil. Para isso, o governo federal vai construir unidades e transferir a gestão aos municípios, com uma colaboração financeira por alguns anos e acompanhamento dos resultados. </string>
+    <string name="proposta1.1.2">Nos Ensinos Fundamental e Médio, focar na universalização do acesso, na permanência e no aprendizado de qualidade. </string>
+    <string name="proposta1.1.3">Racionalizar a rede de prestação de serviços de saúde, reduzindo o número de hospitais de pequeno porte. </string>
+    <string name="proposta1.1.4">Eliminar a cobrança de impostos a medicamentos genéricos até 2022. </string>
+
+    <string name="proposta2.1.1">Aumentar o percentual do PIB investido na educação para 10%. </string>
+    <string name="proposta2.1.2">Garantir que 100% das escolas brasileiras tenham banheiros com acessibilidade a alunos com deficiência até 2022. </string>
+    <string name="proposta2.1.3">Erradicar o analfabetismo. </string>
+    <string name="proposta2.1.4">Aumentar a quantidade dos leitos de internação e de unidades de terapia intensiva. </string>
+
+    <string name="proposta3.1.1">Nas universidades públicas, ampliar a oferta de vagas, prosseguir com as políticas de cotas, estreitar laços com políticas e ações no campo da ciência, tecnologia e inovação. </string>
+    <string name="proposta3.1.2">Implantar creches de tempo integral para crianças de 0 a 3 anos, em parceria com as Prefeituras. </string>
+    <string name="proposta3.1.3">Eliminar o subfinanciamento da educação e da saúde causado pela emenda do teto de gastos. </string>
+    <string name="proposta3.1.4">Nas universidades públicas, ampliar a oferta de vagas, prosseguir com as políticas de cotas, estreitar laços com políticas e ações no campo da ciência, tecnologia e inovação. </string>
+
+    <string name="proposta4.1.1">Promover o ensino integral no Ensino Fundamental. </string>
+    <string name="proposta4.1.2">Ampliar vagas no ensino público universitário e em cursos profissionalizantes. </string>
+    <string name="proposta4.1.3">Incluir no Ensino Fundamental a disciplina Educação Moral e Cívica. </string>
+    <string name="proposta4.1.4">Desenvolver um programa de saúde pública com foco na prevenção.</string>
+
+    <string name="proposta5.1.1">Investir na formação e qualificação dos professores. </string>
+    <string name="proposta5.1.2">Estimular parcerias entre universidades, empresas e empreendedores. </string>
+    <string name="proposta5.1.3">Implantar um cadastro único de todos os usuários do SUS e criar um prontuário eletrônico com o histórico médico de cada paciente. </string>
+    <string name="proposta5.1.4">Fortalecer o ensino técnico e tecnológico. </string>
+
+    <string name="proposta6.1.1">Convocar um plebiscito popular para reverter a emenda do teto de gastos. Em seguida, ampliar o investimento em educação. </string>
+    <string name="proposta6.1.2">Criar creches em tempo integral para mães que trabalham e estudam. </string>
+    <string name="proposta6.1.3">Estabelecer um teto de espera a consultas e procedimentos na atenção especializada.</string>
+    <string name="proposta6.1.4">Expandir e fortalecer a rede pública na atenção primária, secundária e terciária e na entrega de medicamentos gratuitos subsidiados. </string>
+
+    <string name="proposta7.1.1">Viabilizar o agendamento de consultas por celular no Sistema Único de Saúde (SUS). </string>
+    <string name="proposta7.1.2">Promover a recuperação financeira dos hospitais filantrópicos e das Santas Casas. </string>
+    <string name="proposta7.1.3">A favor do projeto Escola sem Partido. Contra a aprovação automática dos estudantes e a favor de uma educação com foco na meritocracia. </string>
+    <string name="proposta7.1.4">Criar o Pró-Criança, uma espécie de Prouni para as creches, pelo qual famílias atendidas pelo Bolsa Família poderiam colocar os filhos em creches particulares. </string>
+
+    <string name="proposta8.1.1">Propor a diminuição do percentual de vagas para cotas raciais. Defende cota social. </string>
+    <string name="proposta8.1.2">Defende a adoção da educação à distância no Ensino Fundamental, Médio e universitário, com aulas presenciais em provas ou aulas práticas, o que “ajuda a combater o marxismo". </string>
+    <string name="proposta8.1.3">Criar um Prontuário Eletrônico Nacional Interligado. Os postos, ambulatórios e hospitais devem ser informatizados com todos os dados do atendimento. </string>
+    <string name="proposta8.1.4">Para combater a mortalidade infantil, defende a melhoria do saneamento básico e a adoção de medidas preventivas de saúde para reduzir o número de prematuros — entre elas, estabelecer nos programas neonatais a visita ao dentista pelas gestantes. </string>
+
+    <string name="proposta9.1.1">Defende mensalidades em universidades públicas. </string>
+    <string name="proposta9.1.2">Ampliar parcerias público-privadas e com o terceiro setor para a gestão de hospitais. </string>
+    <string name="proposta9.1.3">Expandir e priorizar programas de prevenção, como clínicas de família.</string>
+    <string name="proposta9.1.4">Priorizar a educação básica na alocação de recursos federais. Expandir o acesso ao ensino infantil e creches. </string>
+
+    <string name="proposta10.1.1">Federalizar o ensino básico. </string>
+    <string name="proposta10.1.2">Zerar o déficit de creches e pré-escolas em quatro anos. </string>
+    <string name="proposta10.1.3">Revogar a emenda do teto de gastos para ter mais recursos para saúde e educação </string>
+    <string name="proposta10.1.4">Elevar o orçamento da saúde para 15% da receita corrente bruta da União. Para isso, alterar a lei que estabelece 15% da receita corrente líquida para a saúde. “Isso redundaria na duplicação do orçamento da saúde”. </string>
+
+    <string name="proposta11.1.1">Revogar a emenda do teto de gastos. Retomar os recursos dos royalties do petróleo e do Fundo Social do Pré-Sal para saúde e educação. </string>
+    <string name="proposta11.1.2">Em contraponto à Escola Sem Partido, criar a Escola com Ciência e Cultura, para valorizar a diversidade. </string>
+    <string name="proposta11.1.3">Criar Rede de Especialidades Multiprofissional (REM), em parceria com Estados e municípios, com polos em cada região de saúde. </string>
+    <string name="proposta11.1.4">Implementar um Plano Nacional para o Envelhecimento Ativo e Saudável.</string>
+
+    <string name="proposta12.1.1">Valorizar os professores, com ações voltadas ao aprimoramento da formação pedagógica e dos planos de carreira. </string>
+    <string name="proposta12.1.2">Defender a escola pública laica. Criar políticas de prevenção e combate a todas as formas de bullying, violência e discriminação dentro do Plano Nacional de Educação. </string>
+    <string name="proposta12.1.3">Utilizar novas tecnologias para modernizar os serviços do SUS, como o agendamento de consultas por meio eletrônico e a criação de uma base única de dados do paciente, com objetivo de estabelecer um prontuário eletrônico. </string>
+    <string name="proposta12.1.4">Incentivar a expansão da educação integral. </string>
+
+    <string name="proposta13.1.1">Estatizar todas as instituições privadas de ensino, sem indenização. </string>
+    <string name="proposta13.1.2">Acabar com o vestibular e dar garantia de vagas para todos no ensino superior público. </string>
+    <string name="proposta13.1.3">Acabar com o ensino religioso ou confessional. </string>
+    <string name="proposta13.1.4">Não pagar a dívida pública para ter verbas para a saúde e educação públicas. </string>
+
+    <string name="proposta2">Segurança</string>
+    <string name="proposta1.2.1"></string>
+    <string name="proposta1.2.2"></string>
+    <string name="proposta1.2.3"></string>
+    <string name="proposta1.2.4"></string>
+
+    <string name="proposta2.2.1"></string>
+    <string name="proposta2.2.2"></string>
+    <string name="proposta2.2.3"></string>
+    <string name="proposta2.2.4"></string>
+
+    <string name="proposta3.2.1"></string>
+    <string name="proposta3.2.2"></string>
+    <string name="proposta3.2.3"></string>
+    <string name="proposta3.2.4"></string>
+
+    <string name="proposta4.2.1"></string>
+    <string name="proposta4.2.2"></string>
+    <string name="proposta4.2.3"></string>
+    <string name="proposta4.2.4"></string>
+
+    <string name="proposta5.2.1"></string>
+    <string name="proposta5.2.2"></string>
+    <string name="proposta5.2.3"></string>
+    <string name="proposta5.2.4"></string>
+
+    <string name="proposta6.2.1"></string>
+    <string name="proposta6.2.2"></string>
+    <string name="proposta6.2.3"></string>
+    <string name="proposta6.2.4"></string>
+
+    <string name="proposta7.2.1"></string>
+    <string name="proposta7.2.2"></string>
+    <string name="proposta7.2.3"></string>
+    <string name="proposta7.2.4"></string>
+
+    <string name="proposta8.2.1"></string>
+    <string name="proposta8.2.2"></string>
+    <string name="proposta8.2.3"></string>
+    <string name="proposta8.2.4"></string>
+
+    <string name="proposta9.2.1"></string>
+    <string name="proposta9.2.2"></string>
+    <string name="proposta9.2.3"></string>
+    <string name="proposta9.2.4"></string>
+
+    <string name="proposta10.2.1"></string>
+    <string name="proposta10.2.2"></string>
+    <string name="proposta10.2.3"></string>
+    <string name="proposta10.2.4"></string>
+
+    <string name="proposta11.2.1"></string>
+    <string name="proposta11.2.2"></string>
+    <string name="proposta11.2.3"></string>
+    <string name="proposta11.2.4"></string>
+
+    <string name="proposta12.2.1"></string>
+    <string name="proposta12.2.2"></string>
+    <string name="proposta12.2.3"></string>
+    <string name="proposta12.2.4"></string>
+
+    <string name="proposta13.2.1"></string>
+    <string name="proposta13.2.2"></string>
+    <string name="proposta13.2.3"></string>
+    <string name="proposta13.2.4"></string>
+
+    <string name="proposta3">Políticas Sociais e\nDireitos Humanos</string>
+    <string name="proposta4">Economia e Emprego</string>
+    <string name="proposta5">Política e Corrupção</string>
+    <string name="proposta6">Política Externa e\nMeio Ambiente</string>
 
 </resources>

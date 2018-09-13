@@ -6,9 +6,172 @@
     android:layout_height="match_parent"
     tools:context=".Quiz">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Pergunta 01 >> "/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/desc_quiz"
+                android:textSize="18sp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"/>
+
+            <LinearLayout
+                android:id="@+id/partido19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="192dp"
+                    android:layout_height="192dp"
+                    android:onClick="quiz_edusaude"
+                    android:background="@mipmap/educacao_saude"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/proposta1"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="192dp"
+                    android:layout_height="192dp"
+                    android:background="@mipmap/seguranca"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/proposta2"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/partido19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="192dp"
+                    android:layout_height="192dp"
+                    android:background="@mipmap/politicas_soaicis_e_dh"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/proposta3"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="192dp"
+                    android:layout_height="192dp"
+                    android:background="@mipmap/economia_emprego"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/proposta4"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/partido19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="192dp"
+                    android:layout_height="192dp"
+                    android:background="@mipmap/politica_corrupcao"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/proposta5"
+                        android:textColor="#FFF"
+                        android:ellipsize="end"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/partido19"
+                    android:layout_width="192dp"
+                    android:layout_height="192dp"
+                    android:background="@mipmap/politica_externa"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@id/partido19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="@string/proposta6"
+                        android:textColor="#FFF"
+                        android:lines="2"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:background="#99000000" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
 
 </android.support.constraint.ConstraintLayout>

@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".HelpVote" />
         <activity android:name=".CheckVote" />
-        <activity android:name=".Quiz"></activity>
+        <activity android:name=".Quiz" />
+        <activity android:name=".quiz_edusaude"></activity>
     </application>
 
 </manifest>

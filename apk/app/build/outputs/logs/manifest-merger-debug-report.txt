@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/d58369be7865415d3b7457142ebf10ac/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:2:1-11:12
@@ -34,25 +34,25 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/
 MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/54f54a67e0c1f1bb309d00a3218a2bb5/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4333db75a84453faee8eba6aca72310c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49a041e13fa34a5e96b2d4398f59173d/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 		INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
-		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
-		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:9:5-20
@@ -98,9 +98,13 @@ ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:20:9
 	android:name
 		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:20:19-44
 activity#br.com.felip.votocerto.Quiz
-ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:21:9-51
+ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:21:9-42
 	android:name
 		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:21:19-39
+activity#br.com.felip.votocerto.quiz_edusaude
+ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:22:19-48
 uses-sdk
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml

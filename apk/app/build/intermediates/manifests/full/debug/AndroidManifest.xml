@@ -28,6 +28,7 @@
         <activity android:name="br.com.felip.votocerto.HelpVote" />
         <activity android:name="br.com.felip.votocerto.CheckVote" />
         <activity android:name="br.com.felip.votocerto.Quiz" />
+        <activity android:name="br.com.felip.votocerto.quiz_edusaude" />
     </application>
 
 </manifest>
