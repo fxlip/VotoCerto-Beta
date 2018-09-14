@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 public class TemaSeguranca extends Fragment{
 
     public TemaSeguranca() {
-        // Required empty public constructor
+        //
     }
 
     @Override
@@ -20,7 +20,7 @@ public class TemaSeguranca extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
+        ((Quiz) getActivity()).setActionBarTitle("Segurança");
         return inflater.inflate(R.layout.tema_seguranca, container, false);
     }
 

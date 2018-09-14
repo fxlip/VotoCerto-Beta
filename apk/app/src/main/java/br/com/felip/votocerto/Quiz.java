@@ -15,7 +15,7 @@ import java.util.List;
 
 public class Quiz extends AppCompatActivity {
 
-    private Toolbar toolbar;
+    public Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
     private int[] tabIcons = {
@@ -61,11 +61,15 @@ public class Quiz extends AppCompatActivity {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFrag(new br.com.felip.votocerto.TemaEducacaoSaude(), "Educação e Saúde");
         adapter.addFrag(new br.com.felip.votocerto.TemaSeguranca(), "Segurança");
-        adapter.addFrag(new br.com.felip.votocerto.TemaPoliticaSocialDH(), "Políticas Sociais e\nDireitos Humanos");
+        adapter.addFrag(new br.com.felip.votocerto.TemaPoliticaSocialDH(), "Políticas Sociais");
         adapter.addFrag(new br.com.felip.votocerto.TemaEconomiaEmprego(), "Economia e Emprego");
         adapter.addFrag(new br.com.felip.votocerto.TemaPoliticaCorrupcao(), "Política e Corrupção");
-        adapter.addFrag(new br.com.felip.votocerto.TemaPoliticaExternaMA(), "Política Externa e\nMeio Ambiente");
+        adapter.addFrag(new br.com.felip.votocerto.TemaPoliticaExternaMA(), "Meio Ambiente");
         viewPager.setAdapter(adapter);
+    }
+
+    public void setActionBarTitle(String title) {
+        getSupportActionBar().setTitle(title);
     }
 
     class ViewPagerAdapter extends FragmentPagerAdapter {
@@ -88,12 +92,14 @@ public class Quiz extends AppCompatActivity {
 
         public void addFrag(Fragment fragment, String title) {
             mFragmentList.add(fragment);
-            mFragmentTitleList.add(title);
+//            mFragmentTitleList.add(title);
         }
 
         @Override
         public CharSequence getPageTitle(int position) {
-            return mFragmentTitleList.get(position);
+            return null;
+//            return mFragmentTitleList.get(position);
         }
+
     }
 }

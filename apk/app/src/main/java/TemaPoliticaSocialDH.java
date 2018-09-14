@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 public class TemaPoliticaSocialDH extends Fragment{
 
     public TemaPoliticaSocialDH() {
-        // Required empty public constructor
+        //
     }
 
     @Override
@@ -20,7 +20,7 @@ public class TemaPoliticaSocialDH extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
+        ((Quiz) getActivity()).setActionBarTitle("Políticas Sociais");
         return inflater.inflate(R.layout.tema_politica_social_dh, container, false);
     }
 
