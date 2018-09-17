@@ -20,7 +20,6 @@ public class TemaPoliticaCorrupcao extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        ((Quiz) getActivity()).setActionBarTitle("Meio Ambiente");
         return inflater.inflate(R.layout.tema_politica_corrupcao, container, false);
     }
 

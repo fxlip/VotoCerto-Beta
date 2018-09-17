@@ -15,12 +15,12 @@ public class TemaEconomiaEmprego extends Fragment{
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        ((Quiz) getActivity()).setActionBarTitle("Economia e Emprego");
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        ((Quiz) getActivity()).setActionBarTitle("Economia e Emprego");
         return inflater.inflate(R.layout.tema_economia_emprego, container, false);
     }
 

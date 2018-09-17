@@ -15,12 +15,13 @@ public class TemaPoliticaSocialDH extends Fragment{
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        ((Quiz) getActivity()).setActionBarTitle("Políticas Sociais");
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        ((Quiz) getActivity()).setActionBarTitle("Políticas Sociais");
+//        ((Quiz) getActivity()).setActionBarTitle("Políticas Sociais");
         return inflater.inflate(R.layout.tema_politica_social_dh, container, false);
     }
 

@@ -15,12 +15,12 @@ public class TemaPoliticaExternaMA extends Fragment{
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        ((Quiz) getActivity()).setActionBarTitle("Meio Ambiente");
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        ((Quiz) getActivity()).setActionBarTitle("Meio Ambiente");
         return inflater.inflate(R.layout.tema_politica_externa_ma, container, false);
     }
 

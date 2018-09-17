@@ -15,12 +15,13 @@ public class TemaSeguranca extends Fragment{
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        ((Quiz) getActivity()).setActionBarTitle("Segurança");
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        ((Quiz) getActivity()).setActionBarTitle("Segurança");
+        //((Quiz) getActivity()).setActionBarTitle("Segurança");
         return inflater.inflate(R.layout.tema_seguranca, container, false);
     }
 
