@@ -1,6 +1,7 @@
 package br.com.felip.votocerto;
 
 import android.os.Bundle;
+import android.preference.PreferenceActivity;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -31,7 +32,7 @@ public class Quiz extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         Bundle extras = getIntent().getExtras();
         Integer numero = extras.getInt("partido");
-        Toast.makeText(this, "Partido: "+numero, Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, "Partido: "+numero, Toast.LENGTH_SHORT).show();
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
@@ -45,6 +46,7 @@ public class Quiz extends AppCompatActivity {
 
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
+
         setupTabIcons();
     }
 
@@ -68,15 +70,15 @@ public class Quiz extends AppCompatActivity {
         viewPager.setAdapter(adapter);
     }
 
-    public void setActionBarTitle(String title) {
+    public void onFragmentInteraction(String title) {
         getSupportActionBar().setTitle(title);
     }
 
     class ViewPagerAdapter extends FragmentPagerAdapter {
         private final List<Fragment> mFragmentList = new ArrayList<>();
-        private final List<String> mFragmentTitleList = new ArrayList<>();
+        public final List<String> mFragmentTitleList = new ArrayList<>();
 
-        public ViewPagerAdapter(FragmentManager manager, String title) {
+        public ViewPagerAdapter(FragmentManager manager) {
             super(manager);
         }
 
@@ -92,13 +94,13 @@ public class Quiz extends AppCompatActivity {
 
         public void addFrag(Fragment fragment, String title) {
             mFragmentList.add(fragment);
-//            mFragmentTitleList.add(title);
+            mFragmentTitleList.add(title);
         }
 
         @Override
         public CharSequence getPageTitle(int position) {
             return null;
-//            return mFragmentTitleList.get(position);
+//          return mFragmentTitleList.get(position);
         }
 
     }
