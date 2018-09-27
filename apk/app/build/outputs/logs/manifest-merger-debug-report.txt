@@ -4,36 +4,36 @@ ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/d58369be7865415d3b7457142ebf10ac/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/2efba7cb1d60bd10bf80f577dffc63d0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/4e474e751127a96ef5262b355742a3b8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/69265ae5502a297cd7b5f3272554d952/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/6b753ca14424bf67862e73ac3dc8da70/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/a2bc6259b8add4d20ab4e3353b0e0d9a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/7c16c507712a4200f5854163f304600a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/d95326364f03dc6b33bdd0af6c13d7b1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/c21bd723409edbd0e7c5151eac5acc68/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/5c68d987d9e1efc3be8f46ec179e2e18/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ed1e1778dabfb9b51901b2ba18e03a6a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/accbc8d65c626d4cf42475d6e3b51f6a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/70d2c848b3e9a525d3653918a0979d81/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/f74eb8d2eeefa1504c60c84d70bc6670/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/fe65ad20263865f8292e737a7324168f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/1d38cd6304acb4e5cbd6398733898a5e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/58ea71fda4ea85060115031a5c991238/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/b159a05bd3677a455685020b990c7559/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/3669e75c2f622a9a86d8c038c6e681f8/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dff31bb04f7b02dd5c24b49495460b9b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/ecec7f9a4c40c60841b2b6c159fd03cc/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/162bbc152c8aa48642ab2ff32da27597/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/5c747f5a63bf00805e57a6167a86daa3/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d9a46983caf688ff5ab8ea02ec132126/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/54f54a67e0c1f1bb309d00a3218a2bb5/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4333db75a84453faee8eba6aca72310c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49a041e13fa34a5e96b2d4398f59173d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe1906bcfb30229acc2775afa9f64afb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/29247b16b9e12139075881c8097965c7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/302107245bb1dba37ce26a61a95b8408/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/4068ee8acac3479f9105fca86442d66d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/d6e85ed0f4f9c17926ac1f0836eeb540/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/2aa629c189299466a0b4da8859cab3a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/af059d4b6fdb9c89f112cb1b88107a12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/d1f54a4f7961950c586d0abbecbcaaa7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/dbe043dcd6387a2a83f023d29c937767/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/b18bd08ce109d44c353b2f0859687726/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/cf5dd9c474d4755f6db66fb09e4878a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ae01f4e3cf28142a680d2a1cdda95c24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/8e715fa0ba83ad8b22a3f6a459f17036/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/e02f84228598019c901fb038d7aba582/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/63290318a1c0d25a04ace31d42a954b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/eb9a2d95c2b1826ea268737582ce3039/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/d12c5b81a9a3c2578586cddd07ef3747/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/0015f3d0b822218253ca11b94e9033f6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/bd6050647703429a672eb29281a74c38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/7ca1013374fed32d0c19ce7ac4d9a0cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6f222cacab42fada56c3bca6d0fced7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/ab9bb036e45b231d2772481ba373a868/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/2d619b49f831c2ac64aef3e1b1d99ba7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/6a70b6e411c27ecb4af9951685b95acd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e668bedabd746dc7f3c8051f422e0c66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fd7953ba0b40cbb47c781887b87ddf29/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/99bbf2ead54cdf8ac382143c616d3593/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d6d743277745de32b5011699e2901e0/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:1-30:12
@@ -53,16 +53,16 @@ INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2
 		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:5:5-28:19
-MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/58ea71fda4ea85060115031a5c991238/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/58ea71fda4ea85060115031a5c991238/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/29247b16b9e12139075881c8097965c7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/29247b16b9e12139075881c8097965c7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/0015f3d0b822218253ca11b94e9033f6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/0015f3d0b822218253ca11b94e9033f6/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
@@ -105,66 +105,66 @@ uses-sdk
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/d58369be7865415d3b7457142ebf10ac/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/d58369be7865415d3b7457142ebf10ac/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/60e50e4493052558dbec0e22956737a0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/2efba7cb1d60bd10bf80f577dffc63d0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/2efba7cb1d60bd10bf80f577dffc63d0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/4e474e751127a96ef5262b355742a3b8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/4e474e751127a96ef5262b355742a3b8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/69265ae5502a297cd7b5f3272554d952/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/69265ae5502a297cd7b5f3272554d952/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/6b753ca14424bf67862e73ac3dc8da70/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/6b753ca14424bf67862e73ac3dc8da70/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/a2bc6259b8add4d20ab4e3353b0e0d9a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/a2bc6259b8add4d20ab4e3353b0e0d9a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/7c16c507712a4200f5854163f304600a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/7c16c507712a4200f5854163f304600a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/d95326364f03dc6b33bdd0af6c13d7b1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/d95326364f03dc6b33bdd0af6c13d7b1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/c21bd723409edbd0e7c5151eac5acc68/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/c21bd723409edbd0e7c5151eac5acc68/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/5c68d987d9e1efc3be8f46ec179e2e18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/5c68d987d9e1efc3be8f46ec179e2e18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ed1e1778dabfb9b51901b2ba18e03a6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ed1e1778dabfb9b51901b2ba18e03a6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/accbc8d65c626d4cf42475d6e3b51f6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/accbc8d65c626d4cf42475d6e3b51f6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/70d2c848b3e9a525d3653918a0979d81/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/70d2c848b3e9a525d3653918a0979d81/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/f74eb8d2eeefa1504c60c84d70bc6670/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/f74eb8d2eeefa1504c60c84d70bc6670/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/fe65ad20263865f8292e737a7324168f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/fe65ad20263865f8292e737a7324168f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/1d38cd6304acb4e5cbd6398733898a5e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/1d38cd6304acb4e5cbd6398733898a5e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/58ea71fda4ea85060115031a5c991238/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/58ea71fda4ea85060115031a5c991238/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/b159a05bd3677a455685020b990c7559/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/b159a05bd3677a455685020b990c7559/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/3669e75c2f622a9a86d8c038c6e681f8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/3669e75c2f622a9a86d8c038c6e681f8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dff31bb04f7b02dd5c24b49495460b9b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dff31bb04f7b02dd5c24b49495460b9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/ecec7f9a4c40c60841b2b6c159fd03cc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/ecec7f9a4c40c60841b2b6c159fd03cc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/162bbc152c8aa48642ab2ff32da27597/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/162bbc152c8aa48642ab2ff32da27597/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/5c747f5a63bf00805e57a6167a86daa3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/5c747f5a63bf00805e57a6167a86daa3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d9a46983caf688ff5ab8ea02ec132126/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d9a46983caf688ff5ab8ea02ec132126/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/54f54a67e0c1f1bb309d00a3218a2bb5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/54f54a67e0c1f1bb309d00a3218a2bb5/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4333db75a84453faee8eba6aca72310c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4333db75a84453faee8eba6aca72310c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49a041e13fa34a5e96b2d4398f59173d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49a041e13fa34a5e96b2d4398f59173d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe1906bcfb30229acc2775afa9f64afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe1906bcfb30229acc2775afa9f64afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/29247b16b9e12139075881c8097965c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/felip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/29247b16b9e12139075881c8097965c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/302107245bb1dba37ce26a61a95b8408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/302107245bb1dba37ce26a61a95b8408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/4068ee8acac3479f9105fca86442d66d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/4068ee8acac3479f9105fca86442d66d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/d6e85ed0f4f9c17926ac1f0836eeb540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/d6e85ed0f4f9c17926ac1f0836eeb540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/2aa629c189299466a0b4da8859cab3a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/2aa629c189299466a0b4da8859cab3a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/af059d4b6fdb9c89f112cb1b88107a12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/af059d4b6fdb9c89f112cb1b88107a12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/d1f54a4f7961950c586d0abbecbcaaa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/d1f54a4f7961950c586d0abbecbcaaa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/dbe043dcd6387a2a83f023d29c937767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/dbe043dcd6387a2a83f023d29c937767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/b18bd08ce109d44c353b2f0859687726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/b18bd08ce109d44c353b2f0859687726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/cf5dd9c474d4755f6db66fb09e4878a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/cf5dd9c474d4755f6db66fb09e4878a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ae01f4e3cf28142a680d2a1cdda95c24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ae01f4e3cf28142a680d2a1cdda95c24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/8e715fa0ba83ad8b22a3f6a459f17036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/8e715fa0ba83ad8b22a3f6a459f17036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/e02f84228598019c901fb038d7aba582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/e02f84228598019c901fb038d7aba582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/63290318a1c0d25a04ace31d42a954b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/63290318a1c0d25a04ace31d42a954b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/eb9a2d95c2b1826ea268737582ce3039/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/eb9a2d95c2b1826ea268737582ce3039/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/d12c5b81a9a3c2578586cddd07ef3747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/d12c5b81a9a3c2578586cddd07ef3747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/0015f3d0b822218253ca11b94e9033f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/0015f3d0b822218253ca11b94e9033f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/bd6050647703429a672eb29281a74c38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/bd6050647703429a672eb29281a74c38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/7ca1013374fed32d0c19ce7ac4d9a0cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/7ca1013374fed32d0c19ce7ac4d9a0cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6f222cacab42fada56c3bca6d0fced7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6f222cacab42fada56c3bca6d0fced7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/ab9bb036e45b231d2772481ba373a868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/ab9bb036e45b231d2772481ba373a868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/2d619b49f831c2ac64aef3e1b1d99ba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/2d619b49f831c2ac64aef3e1b1d99ba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/6a70b6e411c27ecb4af9951685b95acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/6a70b6e411c27ecb4af9951685b95acd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e668bedabd746dc7f3c8051f422e0c66/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e668bedabd746dc7f3c8051f422e0c66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fd7953ba0b40cbb47c781887b87ddf29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/felip/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fd7953ba0b40cbb47c781887b87ddf29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/99bbf2ead54cdf8ac382143c616d3593/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/99bbf2ead54cdf8ac382143c616d3593/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d6d743277745de32b5011699e2901e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/felip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d6d743277745de32b5011699e2901e0/AndroidManifest.xml:20:5-44
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 INJECTED from /home/felip/Nuvem/VotoCerto/apk/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

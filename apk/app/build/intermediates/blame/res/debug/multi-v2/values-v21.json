@@ -4,7 +4,7 @@
             "outputFile": "/home/felip/Nuvem/VotoCerto/apk/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/d58369be7865415d3b7457142ebf10ac/res/values-v21/values-v21.xml",
+                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe1906bcfb30229acc2775afa9f64afb/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/res/values-v21/values-v21.xml",
+                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,10,18,26",
                         "startColumns": "4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/5549a7ca0c4a54a28761390ec44df9e7/res/values-v21/values-v21.xml",
+                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/44577180fd4238848215b14071f068f5/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

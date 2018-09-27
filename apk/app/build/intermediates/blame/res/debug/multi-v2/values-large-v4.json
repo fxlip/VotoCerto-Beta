@@ -4,7 +4,7 @@
             "outputFile": "/home/felip/Nuvem/VotoCerto/apk/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/abe44b9061837fc7b6cd0ba97cc59a77/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/d58369be7865415d3b7457142ebf10ac/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe1906bcfb30229acc2775afa9f64afb/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
