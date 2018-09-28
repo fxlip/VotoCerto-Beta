@@ -1,7 +1,7 @@
 [
   {
     "name": "Educação e Saúde",
-    "id": "food",
+    "id": "educacao_saude",
     "theme": "blue",
     "quizzes": [
       {
@@ -89,118 +89,79 @@
   },
   {
     "name": "Segurança",
-    "id": "knowledge",
+    "id": "seguranca",
     "theme": "red",
     "quizzes": [
       {
-        "type": "fill-blank",
-        "question": "Mole is a popular paste in Mexico. Mole is a mixture of chili’s and what other tasty ingredient?",
-        "answer": "Chocolate"
-      },
-      {
-        "type": "four-quarter",
-        "question": "What is the name of the famous art deco skyscraper in New York City?",
-        "options": [
-          "Trump Tower",
-          "Chrysler building",
-          "Empire State Building",
-          "The New York Times Building"
-        ],
-        "answer": [1]
-      },
-      {
-        "type": "multi-select",
-        "question": "Select the names of “The Three Musketeers”.",
-        "options": [
-          "Chevy",
-          "Topeka",
-          "Athos",
-          "Duke",
-          "Porthos",
-          "John Felton",
-          "Aramis"
-        ],
-        "answer": [
-          2,
-          4,
-          6
-        ]
-      },
-      {
-        "type": "toggle-translate",
-        "question": "Which is the correct translation of Zorro?",
-        "options": [
-          [
-            "Zorro",
-            "Dog"
-          ],
-          [
-            "Zorro",
-            "Sword"
-          ],
-          [
-            "Zorro",
-            "Fox"
-          ],
-          [
-            "Zorro",
-            "Coyote"
-          ]
-        ],
-        "answer": [2]
-      },
-      {
-        "type": "single-select-item",
-        "question": "Which 1971 film, known for its violence, was the first to use Dolby sound?",
-        "options": [
-          "Straw Dogs",
-          "Dirty Harry",
-          "A Clockwork Orange",
-          "Play Misty for me"
-        ],
-        "answer": [2]
-      },
-      {
-        "type": "picker",
-        "question": "How many counters does a backgammon player have?",
-        "min": 0,
-        "max": 30,
-        "answer": 15
-      },
-      {
         "type": "true-false",
-        "question": "There is a patron saint of The Internet.",
+        "question": "Criar uma frente latino-americana de combate à produção e ao tráfico de drogas.",
         "answer": true
       },
       {
-        "type": "alpha-picker",
-        "question": " Which letter other than X scores 8 in Scrabble?",
-        "answer": "J"
+        "type": "true-false",
+        "question": "Aplicar 10% do PIB nas Forças Armadas, reestruturar os planos de carreira e ampliar o efetivo e a remuneração dos militares.",
+        "answer": true
       },
       {
-        "type": "four-quarter",
-        "question": "Four of the worst ten maritime disasters all took place in 1945. In which sea were all four ships sunk?",
-        "options": [
-          "Mediterranean sea",
-          "Baltic Sea",
-          "The Bermuda Triangle",
-          "Black Sea"
-        ],
-        "answer": [1]
+        "type": "true-false",
+        "question": "Implementar um sistema nacional de inteligência em segurança pública.",
+        "answer": true
       },
       {
-        "type": "single-select",
-        "question": "What nut is used to flavor marzipan?",
-        "options": [
-          "Walnut",
-          "Almond",
-          "Cashew",
-          "Pistachio"
-        ],
-        "answer": [1]
+        "type": "true-false",
+        "question": "Aprimorar a política de controle de armas e munições, reforçando seu rastreamento.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Defende a posse de arma na zona rural.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Desmilitarizar a Polícia Militar. Fundir os corpos policiais em torno de um só ente policial.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Manter as Delegacias da Mulher abertas 24 horas por dia, todos os dias.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Apoiar penas duras para crimes de estupro, incluindo castração química voluntária em troca da redução da pena. ",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Revisar o Estatuto do Desarmamento, para liberar o porte de arma para todos os cidadãos.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Apoiar a criação e o funcionamento de Conselhos Comunitários de Segurança, desvinculados do Estado.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Fazer intercâmbio internacional para aprimorar estratégias de segurança pública.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Implementar o Sistema Único de Segurança Pública.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Dar fim às intervenções militares nas comunidades pobres.",
+        "answer": true
       }
     ],
     "scores": [
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -215,129 +176,80 @@
     "solved": "false"
   },
   {
-    "name": "Políticas Sociais e Direitos Humanos",
-    "id": "science",
-    "theme": "orange",
+    "name": "Políticas Sociais",
+    "id": "politicas_sociais",
+    "theme": "red",
     "quizzes": [
       {
-        "type": "fill-blank",
-        "question": "Name the other state in the USA that starts with the letter A:",
-        "start": "Alabama, Alaska, Arizona, and ",
-        "answer": "Arkansas"
-      },
-      {
-        "type": "toggle-translate",
-        "question": "Select which landmark to American state pairings are correct:",
-        "options": [
-          [
-            "Las Vegas",
-            "Arizona"
-          ],
-          [
-            "Death Valley",
-            "California"
-          ],
-          [
-            "Mount Rushmore",
-            "North Dakota"
-          ],
-          [
-            "Fort Knox",
-            "Kentucky"
-          ],
-          [
-            "Kennedy Space Center",
-            "Florida"
-          ]
-        ],
-        "answer": [
-          1,
-          3,
-          4
-        ]
-      },
-      {
         "type": "true-false",
-        "question": "A person born in Lombardy is Italian.",
+        "question": "Manter e aprimorar os programas Prouni e Fies.",
         "answer": true
       },
       {
-        "type": "picker",
-        "question": "Approximately how many kilometers of coastline does the United Kingdom have?",
-        "min": 2000,
-        "max": 5000,
-        "step": 500,
-        "answer": 2500
+        "type": "true-false",
+        "question": "Contra a legalização do aborto.",
+        "answer": true
       },
       {
-        "type": "multi-select",
-        "question": "Which three countries have fifty or more nuclear reactors?",
-        "options": [
-          "USA",
-          "Russia",
-          "Canada",
-          "Brazil",
-          "France",
-          "Japan",
-          "China"
-        ],
-        "answer": [
-          0,
-          4,
-          5
-        ]
+        "type": "true-false",
+        "question": "Buscar igualar o número de homens e mulheres nas posições de comando no governo federal.",
+        "answer": true
       },
       {
-        "type": "fill-blank",
-        "question": "What country would you visit to see Casablanca?",
-        "answer": "Morocco"
+        "type": "true-false",
+        "question": "Criar um Sistema Nacional de Direitos Humanos.",
+        "answer": true
       },
       {
-        "type": "single-select-item",
-        "question": "In which city was the 1992 Olympics?",
-        "options": [
-          "Atlanta",
-          "Barcelona",
-          "Seoul",
-          "Sydney"
-        ],
-        "answer": [1]
+        "type": "true-false",
+        "question": "Oferecer proteção especial para o idoso, mediante programa de combate aos maus tratos, como também de acesso à moradia, educação e cursos profissionalizantes.",
+        "answer": true
       },
       {
-        "type": "fill-blank",
-        "question": " What food is named after a northern German city on the river Elbe?",
-        "answer": "Hamburger"
+        "type": "true-false",
+        "question": "Apoio ao debate de gênero nas escolas para enfrentar a violência.",
+        "answer": true
       },
       {
-        "type": "multi-select",
-        "question": "Select two countries that are linked by the Brenner Pass:",
-        "options": [
-          "Germany",
-          "Croatia",
-          "Austria",
-          "Switzerland",
-          "France",
-          "Italy",
-          "Czech Republic"
-        ],
-        "answer": [
-          2,
-          5
-        ]
+        "type": "true-false",
+        "question": "Garantir pelo menos 30% de mulheres nos Conselhos Administrativos das Estatais.",
+        "answer": true
       },
       {
-        "type": "single-select",
-        "question": "Where can you find the Pensacola Mountains?",
-        "options": [
-          "Florida",
-          "Switzerland",
-          "Antarctica",
-          "Argentina"
-        ],
-        "answer": [2]
+        "type": "true-false",
+        "question": "Crítico ao Estatuto da Criança e do Adolescente (ECA), que \"tem que ser rasgado e jogado na latrina. É um estímulo à vagabundagem e à malandragem infantil\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Defende que os mais pobres recebam dinheiro do governo para gastarem como quiserem — contratando um plano de saúde, colocando o filho em escola particular ou financiando uma aposentadoria privada, por exemplo.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Assentar 130 mil famílias de sem-terra nos primeiros seis meses de governo. Assentar 400 mil famílias no primeiro ano. Para isso, priorizar a desapropriação de terras e \"exigir a devolução de todas as terras públicas que foram griladas por fazendeiros e empresas\". As famílias assentadas receberão títulos de concessão de uso, com direito a herança familiar, mas não poderão vender a terra.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Criar o Ministério da Família e formular políticas públicas para proteger os valores da família.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Fazer com que o Ministério do Trabalho fiscalize o cumprimento da lei que determina que homens e mulheres não recebam salários diferentes para funções iguais.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Revogar todas as reformas neoliberais de Temer (e também de Collor, FHC, Lula e Dilma).",
+        "answer": true
       }
     ],
     "scores": [
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -352,133 +264,80 @@
     "solved": "false"
   },
   {
-    "name": "Política Externa e Meio Ambiente",
-    "id": "sports",
+    "name": "Meio Ambiente",
+    "id": "politica_exterior",
     "theme": "yellow",
     "quizzes": [
       {
-        "type": "fill-blank",
-        "question": "What is the layer of the earth underneath the crust called?",
-        "answer": "Mantle"
-      },
-      {
-        "type": "single-select-item",
-        "question": "What is the only bird that can fly backwards?",
-        "options": [
-          "Crow",
-          "Hummingbird",
-          "Pelican",
-          "Seagull",
-          "Albatross",
-          "Falcon",
-          "Sparrow"
-        ],
-        "answer": [1]
-      },
-      {
-        "type": "four-quarter",
-        "question": "What is the only cat in the world that can’t retract its claws?",
-        "options": [
-          "Meerkat",
-          "Bobcat",
-          "Cheetah",
-          "Siamese"
-        ],
-        "answer": [2]
-      },
-      {
-        "type": "toggle-translate",
-        "question": "Which chemical symbols are incorrect?",
-        "options": [
-          [
-            "Helium",
-            "He"
-          ],
-          [
-            "Tungsten",
-            "W"
-          ],
-          [
-            "Lithium",
-            "Lt"
-          ],
-          [
-            "Nickel",
-            "Ni"
-          ],
-          [
-            "Copper",
-            "C"
-          ],
-          [
-            "Zinc",
-            "Zn"
-          ],
-          [
-            "Cadmium",
-            "Cd"
-          ],
-          [
-            "Potassium",
-            "K"
-          ],
-          [
-            "Silicon",
-            "Sn"
-          ]
-        ],
-        "answer": [
-          2,
-          4,
-          8
-        ]
-      },
-      {
         "type": "true-false",
-        "question": "The vitreous humour is found in the human eye.",
+        "question": "Priorizar o saneamento, investindo R$ 20 bilhões por ano em esgoto tratado.",
         "answer": true
       },
       {
-        "type": "fill-blank",
-        "question": "What’s the third color of the rainbow?",
-        "answer": "Yellow"
+        "type": "true-false",
+        "question": "\"Deixar muito claro para os Estados Unidos e para a China... infelizmente políticos da nossa nação estão dando nossa nação. Mas aqui não vai ter vez. Eles vão disputar o segundo e terceira melhor economia do mundo. Porque a nação brasileira no nosso governo vai ficar entre a primeira economia mundial, para honra e glória do nosso senhor Jesus Cristo.\"",
+        "answer": true
       },
       {
-        "type": "picker",
-        "question": "How many toes do most birds have?",
-        "min": 2,
-        "max": 12,
-        "answer": 8
+        "type": "true-false",
+        "question": "Estimular o uso de energias sustentáveis, como a energia solar, e regulamentar a autogeração.",
+        "answer": true
       },
       {
-        "type": "picker",
-        "question": "If the temperature in Centigrade is minus 40 degrees what is the temperature in Fahrenheit?",
-        "min": -100,
-        "max": 0,
-        "step": 5,
-        "answer": -40
+        "type": "true-false",
+        "question": "Preservar e proteger os recursos naturais \"da devastação que os ameaça com os ataques do governo golpista\".",
+        "answer": true
       },
       {
-        "type": "four-quarter",
-        "question": "What sort of creature is a fluke?",
-        "options": [
-          "Bird",
-          "Insect",
-          "Worm",
-          "Bear"
-        ],
-        "answer": [2]
+        "type": "true-false",
+        "question": "Perseguir o cumprimento das metas assumidas no Acordo de Paris, sobre o clima. ",
+        "answer": true
       },
       {
-        "type": "fill-two-blanks",
-        "question": "What two metals together make brass?",
-        "answer": [
-          "Copper",
-          "Zinc"
-        ]
+        "type": "true-false",
+        "question": "Promover uma transição energética e produtiva, \"buscando aposentar o uso dos combustíveis fósseis\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Seguir com os objetivos do Acordo de Paris, incentivando o reflorestamento e estimulando o investimento em energias renováveis.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Fundir os Ministérios da Agricultura e do Meio Ambiente, o que colocaria \"um fim na indústria das multas, bem como leva harmonia ao campo\". O ministro seria indicado \"pelas entidades dos produtores\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Ampliar a energia renovável na matriz energética. Eliminar subsídios à energia não-renovável, como gasolina e diesel.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Aumentar a multa e a pena para crimes ambientais, sobretudo em casos de desastres ecológicos.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "\"Praticar o princípio da solidariedade entre as nações, segundo o conceito de que a terra é a nação dos homens e objetivando uma ordem social mundial, baseada nos princípios da solidariedade, da justiça e da liberdade\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Atingir desmatamento zero no Brasil no menor prazo possível, com data limite em 2030.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "\"Defendemos a nacionalização e estatização do grande latifúndio e do chamado agronegócio sob o controle dos trabalhadores para que definam a sua produção, de acordo com as necessidades do povo e em harmonia com o meio ambiente.\".",
+        "answer": true
       }
     ],
     "scores": [
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -494,109 +353,79 @@
   },
   {
     "name": "Economia e Emprego",
-    "id": "history",
+    "id": "economia",
     "theme": "green",
     "quizzes": [
       {
-        "type": "fill-blank",
-        "question": "The first words spoken on the moon by Buzz Aldrin were these:",
-        "start": "Contact ",
-        "answer": "Light"
-      },
-      {
-        "type": "single-select-item",
-        "question": "What U.S. President committed an unpardonable sin by kissing the Queen Mother on the lips?",
-        "options": [
-          "George W. Bush",
-          "Jimmy Carter",
-          "Barack Obama",
-          "Lyndon B. Johnson",
-          "Ronald Reagan"
-        ],
-        "answer": [1]
+        "type": "true-false",
+        "question": "Isentar do Imposto de Renda quem recebe até R$ 5 mil por mês.",
+        "answer": true
       },
       {
         "type": "true-false",
-        "question": "Cleopatra was Egyptian.",
-        "answer": false
+        "question": "\"Transformar a colônia brasileira em nação brasileira\".",
+        "answer": true
       },
       {
         "type": "true-false",
-        "question": "The Rosetta Stone is the name of the limestone slab that became the key for deciphering ancient Egyptian hieroglyphics.",
-        "answer": false
+        "question": "Criar um Imposto Sobre Valor Agregado (IVA), unificando vários tributos atualmente existentes.",
+        "answer": true
       },
       {
-        "type": "fill-blank",
-        "question": "Prior to 1664 New York was called:",
-        "start": "New ",
-        "answer": "Amsterdam"
+        "type": "true-false",
+        "question": "Criar a Política Nacional de Desenvolvimento Regional e Territorial, para interiorizar atividade econômica.",
+        "answer": true
       },
       {
-        "type": "multi-select",
-        "question": "What are the surnames of Bonnie and Clyde?",
-        "options": [
-          "Parson",
-          "Parker",
-          "Patterson",
-          "Barlow",
-          "Barret",
-          "Barrow"
-        ],
-        "answer": [
-          1,
-          5
-        ]
+        "type": "true-false",
+        "question": "Abrir a economia e fazer com que o comércio exterior represente 50% do PIB.",
+        "answer": true
       },
       {
-        "type": "four-quarter",
-        "question": "Joan of Arc, in the 15th century, was the first female promoted to this rank in the French army:",
-        "options": [
-          "Lieutenant",
-          "Sergeant",
-          "General",
-          "Captain"
-        ],
-        "answer": [2]
+        "type": "true-false",
+        "question": "Enfrentar o \"bolsa banqueiro\" e o \"bolsa empresário\".",
+        "answer": true
       },
       {
-        "type": "picker",
-        "question": "In which year did William Shakespeare die?",
-        "min": 1615,
-        "max": 1635,
-        "answer": 1616
+        "type": "true-false",
+        "question": "Fazer mais privatizações de empresas públicas. \"Privatizar é uma prioridade\".",
+        "answer": true
       },
       {
-        "type": "single-select",
-        "question": "On which island was Napoleon born?",
-        "options": [
-          "Sardinia",
-          "Corsica",
-          "Tahiti",
-          "Réunion",
-          "New Caledonia"
-        ],
-        "answer": [1]
+        "type": "true-false",
+        "question": "Tornar o Brasil um centro mundial de pesquisa e desenvolvimento em grafeno e nióbio.",
+        "answer": true
       },
       {
-        "type": "multi-select",
-        "question": "Which states did the United States gain after the Mexican War?",
-        "options": [
-          "Arizona",
-          "New Mexico",
-          "Louisiana",
-          "California",
-          "Nevada",
-          "Utah",
-          "Texas"
-        ],
-        "answer": [
-          1,
-          3,
-          6
-        ]
+        "type": "true-false",
+        "question": "Defende a autonomia do Banco Central. Para isso, pretende criar um mandato de quatro anos para o presidente do órgão, renováveis por mais quatro, começando no meio do mandato do presidente da República.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Promover o adensamento das linhas de metrô nos principais centros urbanos. Para isso, será criada uma empresa estatal nacional, a Metrobrás.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Estimular a instalação de polos de desenvolvimento em parceria com governos estaduais.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Fazer uma reforma da Previdência já no começo do governo, mas diferente da proposta pelo governo Temer, encarando \"o problema dos privilégios\" e fazendo uma \"transição para aqueles que estão próximos de se aposentar e aqueles que estão entrando no futuro regime\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Nacionalizar e estatizar, sem indenização e sob controle dos trabalhadores, todo o sistema financeiro.",
+        "answer": true
       }
     ],
     "scores": [
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -612,128 +441,79 @@
   },
   {
     "name": "Política e Corrupção",
-    "id": "geography",
+    "id": "corrupcao",
     "theme": "purple",
     "quizzes": [
       {
-        "type": "fill-blank",
-        "question": "Name the other state in the USA that starts with the letter A:",
-        "start": "Alabama, Alaska, Arizona, and ",
-        "answer": "Arkansas"
-      },
-      {
-        "type": "toggle-translate",
-        "question": "Select which landmark to American state pairings are correct:",
-        "options": [
-          [
-            "Las Vegas",
-            "Arizona"
-          ],
-          [
-            "Death Valley",
-            "California"
-          ],
-          [
-            "Mount Rushmore",
-            "North Dakota"
-          ],
-          [
-            "Fort Knox",
-            "Kentucky"
-          ],
-          [
-            "Kennedy Space Center",
-            "Florida"
-          ]
-        ],
-        "answer": [
-          1,
-          3,
-          4
-        ]
-      },
-      {
         "type": "true-false",
-        "question": "A person born in Lombardy is Italian.",
+        "question": "Convidar o juiz federal Sérgio Moro para ser ministro da Justiça.",
         "answer": true
       },
       {
-        "type": "picker",
-        "question": "Approximately how many kilometers of coastline does the United Kingdom have?",
-        "min": 2000,
-        "max": 5000,
-        "step": 500,
-        "answer": 2500
+        "type": "true-false",
+        "question": "\"A favor do voto impresso “porque existem fraudes em urnas eletrônicas provadas\".",
+        "answer": true
       },
       {
-        "type": "multi-select",
-        "question": "Which three countries have fifty or more nuclear reactors?",
-        "options": [
-          "USA",
-          "Russia",
-          "Canada",
-          "Brazil",
-          "France",
-          "Japan",
-          "China"
-        ],
-        "answer": [
-          0,
-          4,
-          5
-        ]
+        "type": "true-false",
+        "question": "Fazer com que a equipe de governo assine um manual de decência e de responsabilidade com o dinheiro público, que estabeleça que será necessário se afastar voluntariamente da posição em caso de qualquer acusação ou denúncia específica fundamentada.",
+        "answer": true
       },
       {
-        "type": "fill-blank",
-        "question": "What country would you visit to see Casablanca?",
-        "answer": "Morocco"
+        "type": "true-false",
+        "question": "Deflagrar um novo processo Constituinte (para elaborar uma nova constituição). Logo no início do governo, preparar um roteiro de debates sobre os temas e formato da Constituinte.",
+        "answer": true
       },
       {
-        "type": "single-select-item",
-        "question": "In which city was the 1992 Olympics?",
-        "options": [
-          "Atlanta",
-          "Barcelona",
-          "Seoul",
-          "Sydney"
-        ],
-        "answer": [1]
+        "type": "true-false",
+        "question": "Realizar uma reforma política. Promover o voto distrital para reduzir o número de partidos.",
+        "answer": true
       },
       {
-        "type": "fill-blank",
-        "question": " What food is named after a northern German city on the river Elbe?",
-        "answer": "Hamburger"
+        "type": "true-false",
+        "question": "Definir distribuição igualitária de tempo de TV e fundo partidário público entre todos os partidos.",
+        "answer": true
       },
       {
-        "type": "multi-select",
-        "question": "Select two countries that are linked by the Brenner Pass:",
-        "options": [
-          "Germany",
-          "Croatia",
-          "Austria",
-          "Switzerland",
-          "France",
-          "Italy",
-          "Czech Republic"
-        ],
-        "answer": [
-          2,
-          5
-        ]
+        "type": "true-false",
+        "question": "Favorável à continuidade das operações de combate à corrupção, como a Lava Jato.",
+        "answer": true
       },
       {
-        "type": "single-select",
-        "question": "Where can you find the Pensacola Mountains?",
-        "options": [
-          "Florida",
-          "Switzerland",
-          "Antarctica",
-          "Argentina"
-        ],
-        "answer": [2]
+        "type": "true-false",
+        "question": "Cortar ministérios e nomear pelo menos 5 generais como ministros.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Definir metas e acordos de trabalho para todos os funcionários públicos. Realizar processo seletivo para cargos de alta direção no setor público.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Realizar consultas, plebiscitos e referendos para ampliar \"a participação da população nas decisões\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Aplicar a estratégia de “compliance” e o \"Seguro Performance Bond\" na administração federal.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Acabar com a reeleição, ampliando o tempo de mandato de quatro para cinco anos, a partir de 2022. Sua candidatura, por sua vez, seria de quatro anos, para não \"mudar as regras do jogo durante o jogo\".",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Expropriar as empresas envolvidas em corrupção, que devem ser estatizadas e colocadas sob controle dos trabalhadores.",
+        "answer": true
       }
     ],
     "scores": [
+      0,
+      0,
+      0,
       0,
       0,
       0,
