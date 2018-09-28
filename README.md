@@ -27,9 +27,20 @@ git push origin master
 ```
 
 ## Screenshots
-<img src="/screenshots/Screenshot_1.png"  width="350" height="622">
-<img src="/screenshots/Screenshot_2.png"  width="350" height="622">
-<img src="/screenshots/Screenshot_3.png"  width="350" height="622">
+<table>
+  <tr>
+    <td align="left"><img src="/screenshots/Screenshot_1.png" width="350" height="622"/></td>
+    <td align="right"><img src="/screenshots/Screenshot_2.png" width="350" height="622"/></td>
+  </tr>
+  <tr>
+    <td align="left"><img src="/screenshots/Screenshot_3.png" width="350" height="622"/></td>
+    <td align="right"><img src="/screenshots/Screenshot_4.png" width="350" height="622"/></td>
+  </tr>
+  <tr>
+    <td align="left"><img src="/screenshots/Screenshot_5.png" width="350" height="622"/></td>
+    <td align="right"><img src="/screenshots/Screenshot_6.png" width="350" height="622"/></td>
+  </tr>
+</table>
 
 ## Cronograma
 
