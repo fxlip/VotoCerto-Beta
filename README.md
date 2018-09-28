@@ -3,9 +3,10 @@
 
 ## Pré-requisitos para usar
 
-Android (>=4.1) (Jelly Bean)
+Android (>=4.1) (Jelly Bean)<br>
+<a href="/raw/master/downloads/votocerto.apk">Download</a>
 
-## Pré-requisitos para desenvolver
+## Pré-requisitos para ajudar no desenvolvimento
 
 No Ubuntu 14.04 foi usado
 ```
