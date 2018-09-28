@@ -4,7 +4,7 @@
 ## Pré-requisitos para usar
 
 Android (>=4.1) (Jelly Bean)<br>
-<a href="/raw/master/downloads/votocerto.apk">Download</a>
+<a href="../../raw/master/downloads/votocerto.apk">Download</a>
 
 ## Pré-requisitos para ajudar no desenvolvimento
 
