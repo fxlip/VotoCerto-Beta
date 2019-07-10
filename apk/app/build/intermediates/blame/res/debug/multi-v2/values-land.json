@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felip/Nuvem/VotoCerto/apk/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/felip/Nuvem/Apps/VotoCerto/apk/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe1906bcfb30229acc2775afa9f64afb/res/values-land/values-land.xml",
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fc5fda1a5ee32dc833533e12de16317b/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/felip/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6cf658990516d56bab0b7063cd744bfd/res/values-land/values-land.xml",
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/3eaf42c99c5c8d76b72ff4fa3e2fe3bf/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
